@@ -1,115 +1,117 @@
-# Contributing Guidelines
+# 贡献指南
 
-Thank you for considering contributing to this project! 🎉
+[English](CONTRIBUTING.en.md) | [简体中文](CONTRIBUTING.md)
 
-## 📋 Table of Contents
+感谢你考虑为这个项目做出贡献！🎉
 
-- [Code of Conduct](#code-of-conduct)
-- [How Can I Contribute?](#how-can-i-contribute)
-- [Development Setup](#development-setup)
-- [Pull Request Process](#pull-request-process)
-- [Style Guidelines](#style-guidelines)
+## 📋 目录
 
-## 📜 Code of Conduct
+- [行为准则](#行为准则)
+- [如何贡献](#如何贡献)
+- [开发环境设置](#开发环境设置)
+- [Pull Request 流程](#pull-request-流程)
+- [代码风格指南](#代码风格指南)
 
-This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+## 📜 行为准则
 
-## 🤝 How Can I Contribute?
+本项目及其所有参与者均受我们的[行为准则](CODE_OF_CONDUCT.zh-CN.md)约束。参与本项目即表示你同意遵守此准则。
 
-### Reporting Bugs
+## 🤝 如何贡献
 
-Before creating bug reports, please check existing issues to avoid duplicates. When creating a bug report, include:
+### 报告 Bug
 
-- A clear and descriptive title
-- Detailed steps to reproduce the problem
-- Expected vs actual behavior
-- Screenshots if applicable
-- Your environment details (OS, browser, version, etc.)
+在创建 bug 报告之前，请先检查现有的 issue 以避免重复。创建 bug 报告时，请包含：
 
-### Suggesting Enhancements
+- 清晰且描述性的标题
+- 重现问题的详细步骤
+- 预期行为与实际行为的对比
+- 如适用，请附上截图
+- 你的环境详情（操作系统、浏览器、版本等）
 
-Enhancement suggestions are tracked as GitHub issues. When creating an enhancement suggestion, include:
+### 提出改进建议
 
-- A clear and descriptive title
-- Detailed description of the proposed feature
-- Explanation of why this enhancement would be useful
-- Possible implementation approach
+改进建议通过 GitHub issues 进行跟踪。创建改进建议时，请包含：
+
+- 清晰且描述性的标题
+- 对提议功能的详细描述
+- 解释为什么这个改进会有用
+- 可能的实现方法
 
 ### Pull Requests
 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add some amazing feature'`)
-5. Push to the branch (`git push origin feature/amazing-feature`)
-6. Open a Pull Request
+1. Fork 本仓库
+2. 创建新分支 (`git checkout -b feature/amazing-feature`)
+3. 进行你的修改
+4. 提交你的更改 (`git commit -m '添加某个很棒的功能'`)
+5. 推送到分支 (`git push origin feature/amazing-feature`)
+6. 创建一个 Pull Request
 
-## 🛠️ Development Setup
+## 🛠️ 开发环境设置
 
 ```bash
-# Clone the repository
+# 克隆仓库
 git clone https://github.com/h1s97x/[repository-name].git
 
-# Navigate to the project directory
+# 进入项目目录
 cd [repository-name]
 
-# Install dependencies
-npm install  # or yarn install, pip install -r requirements.txt, etc.
+# 安装依赖
+npm install  # 或 yarn install, pip install -r requirements.txt 等
 
-# Run tests
+# 运行测试
 npm test
 
-# Start development server
+# 启动开发服务器
 npm run dev
 ```
 
-## 🔄 Pull Request Process
+## 🔄 Pull Request 流程
 
-1. Ensure your code follows the project's style guidelines
-2. Update documentation if needed
-3. Add tests for new features
-4. Ensure all tests pass
-5. Update the README.md with details of changes if applicable
-6. The PR will be merged once you have the sign-off of at least one maintainer
+1. 确保你的代码遵循项目的代码风格指南
+2. 如有需要，更新文档
+3. 为新功能添加测试
+4. 确保所有测试通过
+5. 如适用，更新 README.md 中的变更详情
+6. PR 需要至少一位维护者的批准后才能合并
 
-## 📝 Style Guidelines
+## 📝 代码风格指南
 
-### Git Commit Messages
+### Git 提交信息
 
-- Use the present tense ("Add feature" not "Added feature")
-- Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
-- Limit the first line to 72 characters or less
-- Reference issues and pull requests liberally after the first line
+- 使用现在时态（"添加功能" 而不是 "已添加功能"）
+- 使用祈使语气（"移动光标到..." 而不是 "移动光标到..."）
+- 第一行限制在 72 个字符以内
+- 在第一行之后可以自由引用 issues 和 pull requests
 
-### Code Style
+### 代码风格
 
-- Follow the existing code style in the project
-- Use meaningful variable and function names
-- Comment your code where necessary
-- Keep functions small and focused
-- Write self-documenting code
+- 遵循项目中现有的代码风格
+- 使用有意义的变量名和函数名
+- 在必要的地方添加注释
+- 保持函数简短且专注
+- 编写自文档化的代码
 
-### Documentation
+### 文档
 
-- Use clear and concise language
-- Include code examples where appropriate
-- Keep documentation up to date with code changes
-- Use proper markdown formatting
+- 使用清晰简洁的语言
+- 在适当的地方包含代码示例
+- 保持文档与代码变更同步
+- 使用正确的 markdown 格式
 
-## ✅ Checklist Before Submitting
+## ✅ 提交前检查清单
 
-- [ ] Code follows the project's style guidelines
-- [ ] Self-review of code completed
-- [ ] Comments added to hard-to-understand areas
-- [ ] Documentation updated
-- [ ] No new warnings generated
-- [ ] Tests added and passing
-- [ ] Dependent changes merged and published
+- [ ] 代码遵循项目的代码风格指南
+- [ ] 已完成代码自审
+- [ ] 在难以理解的地方添加了注释
+- [ ] 已更新文档
+- [ ] 没有产生新的警告
+- [ ] 已添加测试且测试通过
+- [ ] 依赖的变更已合并并发布
 
-## 🙏 Thank You!
+## 🙏 感谢你
 
-Your contributions make this project better. We appreciate your time and effort!
+你的贡献让这个项目变得更好。我们感谢你的时间和努力！
 
 ---
 
-If you have questions, feel free to reach out by opening an issue or contacting the maintainers.
+如有疑问，欢迎通过创建 issue 或联系维护者来咨询。

@@ -1,46 +1,48 @@
 # Pull Request
 
-## 📝 Description
+[English](PULL_REQUEST_TEMPLATE.en.md) | [简体中文](PULL_REQUEST_TEMPLATE.md)
 
-Please include a summary of the changes and the related issue. Include relevant motivation and context.
+## 📝 描述
 
-Fixes # (issue)
+请简要说明此次更改的内容以及相关的 issue。包括相关的动机和背景。
 
-## 🔄 Type of Change
+修复 # (issue)
 
-Please delete options that are not relevant.
+## 🔄 变更类型
 
-- [ ] 🐛 Bug fix (non-breaking change which fixes an issue)
-- [ ] ✨ New feature (non-breaking change which adds functionality)
-- [ ] 💥 Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] 📝 Documentation update
-- [ ] 🎨 Style update (formatting, renaming)
-- [ ] ♻️ Code refactoring (no functional changes)
-- [ ] ⚡ Performance improvement
-- [ ] ✅ Test update
+请删除不相关的选项。
 
-## 🧪 How Has This Been Tested?
+- [ ] 🐛 Bug 修复（不破坏现有功能的修复）
+- [ ] ✨ 新功能（不破坏现有功能的新增功能）
+- [ ] 💥 破坏性变更（会导致现有功能无法正常工作的修复或功能）
+- [ ] 📝 文档更新
+- [ ] 🎨 样式更新（格式化、重命名）
+- [ ] ♻️ 代码重构（无功能变更）
+- [ ] ⚡ 性能改进
+- [ ] ✅ 测试更新
 
-Please describe the tests that you ran to verify your changes.
+## 🧪 如何测试？
 
-- [ ] Test A
-- [ ] Test B
+请描述你运行的测试以验证你的更改。
 
-## ✅ Checklist
+- [ ] 测试 A
+- [ ] 测试 B
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published
+## ✅ 检查清单
 
-## 📸 Screenshots (if applicable)
+- [ ] 我的代码遵循本项目的代码风格指南
+- [ ] 我已对自己的代码进行了自审
+- [ ] 我已为代码添加了注释，特别是在难以理解的地方
+- [ ] 我已对文档进行了相应的更改
+- [ ] 我的更改没有产生新的警告
+- [ ] 我已添加测试来证明我的修复有效或我的功能正常工作
+- [ ] 新的和现有的单元测试在本地通过我的更改
+- [ ] 任何依赖的更改都已合并并发布
 
-Add screenshots to help explain your changes.
+## 📸 截图（如适用）
 
-## 📝 Additional Notes
+添加截图以帮助解释你的更改。
 
-Add any additional notes or context about the PR here.
+## 📝 附加说明
+
+在此处添加有关 PR 的任何附加说明或背景信息。

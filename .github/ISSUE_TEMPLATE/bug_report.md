@@ -1,40 +1,42 @@
 ---
-name: Bug Report
-about: Create a report to help us improve
+name: Bug 报告
+about: 创建报告以帮助我们改进
 title: '[BUG] '
 labels: bug
 assignees: ''
 ---
 
-## 🐛 Bug Description
+[English](bug_report.en.md) | [简体中文](bug_report.md)
 
-A clear and concise description of what the bug is.
+## 🐛 Bug 描述
 
-## 📋 Steps to Reproduce
+清晰简洁地描述这个 bug 是什么。
 
-1. Go to '...'
-2. Click on '...'
-3. Scroll down to '...'
-4. See error
+## 📋 重现步骤
 
-## ✅ Expected Behavior
+1. 前往 '...'
+2. 点击 '...'
+3. 向下滚动到 '...'
+4. 看到错误
 
-A clear and concise description of what you expected to happen.
+## ✅ 预期行为
 
-## ❌ Actual Behavior
+清晰简洁地描述你期望发生什么。
 
-A clear and concise description of what actually happened.
+## ❌ 实际行为
 
-## 📸 Screenshots
+清晰简洁地描述实际发生了什么。
 
-If applicable, add screenshots to help explain your problem.
+## 📸 截图
 
-## 🖥️ Environment
+如适用，添加截图以帮助解释你的问题。
 
-- OS: [e.g. Windows 11, macOS 13, Ubuntu 22.04]
-- Browser: [e.g. Chrome 120, Firefox 121]
-- Version: [e.g. 1.0.0]
+## 🖥️ 环境
 
-## 📝 Additional Context
+- 操作系统: [例如 Windows 11, macOS 13, Ubuntu 22.04]
+- 浏览器: [例如 Chrome 120, Firefox 121]
+- 版本: [例如 1.0.0]
 
-Add any other context about the problem here.
+## 📝 附加信息
+
+在此处添加有关该问题的任何其他信息。

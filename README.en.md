@@ -1,4 +1,4 @@
-# 👋 你好，我是 h1s97x
+# 👋 Hi, I'm h1s97x
 
 [English](README.en.md) | [简体中文](README.md)
 
@@ -9,22 +9,22 @@
   
 </div>
 
-## 🚀 关于我
+## 🚀 About Me
 
-欢迎来到我的 GitHub 主页！我是一名充满热情的开发者，专注于构建创新解决方案并为开源项目做出贡献。
+Welcome to my GitHub profile! I'm a passionate developer focused on building innovative solutions and contributing to open-source projects.
 
-## 🛠️ 技术栈
+## 🛠️ Tech Stack
 
 ```text
-编程语言:  Python | JavaScript | TypeScript | Java | Go
-前端:      React | Vue.js | HTML5 | CSS3
-后端:      Node.js | Spring Boot | Django | FastAPI
-数据库:    MySQL | PostgreSQL | MongoDB | Redis
-运维:      Docker | Kubernetes | CI/CD | GitHub Actions
-工具:      Git | Linux | VS Code | IntelliJ IDEA
+Languages:  Python | JavaScript | TypeScript | Java | Go
+Frontend:   React | Vue.js | HTML5 | CSS3
+Backend:    Node.js | Spring Boot | Django | FastAPI
+Database:   MySQL | PostgreSQL | MongoDB | Redis
+DevOps:     Docker | Kubernetes | CI/CD | GitHub Actions
+Tools:      Git | Linux | VS Code | IntelliJ IDEA
 ```
 
-## 📊 GitHub 统计
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -34,20 +34,20 @@
   
 </div>
 
-## 🔥 最近动态
+## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## 📫 联系方式
+## 📫 How to Reach Me
 
 - 💼 GitHub: [@h1s97x](https://github.com/h1s97x)
-- 📧 邮箱: [Your Email]
-- 🌐 网站: [Your Website]
+- 📧 Email: [Your Email]
+- 🌐 Website: [Your Website]
 
-## 💡 精选项目
+## 💡 Featured Projects
 
-<!-- 在这里添加你的精选项目 -->
+<!-- Add your featured projects here -->
 
 ---
 
@@ -55,6 +55,6 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=h1s97x&color=blueviolet&style=flat-square)
   
-  ⭐️ 来自 [h1s97x](https://github.com/h1s97x)
+  ⭐️ From [h1s97x](https://github.com/h1s97x)
   
 </div>

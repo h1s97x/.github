@@ -1,37 +1,39 @@
 ---
-name: Feature Request
-about: Suggest an idea for this project
+name: 功能请求
+about: 为这个项目提出想法
 title: '[FEATURE] '
 labels: enhancement
 assignees: ''
 ---
 
-## 🚀 Feature Description
+[English](feature_request.en.md) | [简体中文](feature_request.md)
 
-A clear and concise description of the feature you'd like to see.
+## 🚀 功能描述
 
-## 💡 Motivation
+清晰简洁地描述你希望看到的功能。
 
-Why is this feature important? What problem does it solve?
+## 💡 动机
 
-## 📝 Proposed Solution
+为什么这个功能很重要？它解决了什么问题？
 
-Describe how you envision this feature working.
+## 📝 建议的解决方案
 
-## 🔄 Alternatives Considered
+描述你设想的这个功能如何工作。
 
-Describe any alternative solutions or features you've considered.
+## 🔄 考虑的替代方案
 
-## 📸 Mockups/Examples
+描述你考虑过的任何替代解决方案或功能。
 
-If applicable, add mockups, diagrams, or examples to help explain your idea.
+## 📸 模型图/示例
 
-## ✅ Acceptance Criteria
+如适用，添加模型图、图表或示例以帮助解释你的想法。
 
-- [ ] Criterion 1
-- [ ] Criterion 2
-- [ ] Criterion 3
+## ✅ 验收标准
 
-## 📝 Additional Context
+- [ ] 标准 1
+- [ ] 标准 2
+- [ ] 标准 3
 
-Add any other context or information about the feature request here.
+## 📝 附加信息
+
+在此处添加有关功能请求的任何其他信息或背景。

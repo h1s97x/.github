@@ -2,19 +2,25 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '0 0 * * *'  # 每天午夜运行
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 允许写入仓库内容
+    
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
       
       - name: Update README with recent activity
-        uses: jamesgeorge007/github-activity-readme@master
+        uses: Readme-Workflows/recent-activity@v2.4.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'Update recent activity'
+          COMMIT_MSG: '🚀 更新最近活动'
           MAX_LINES: 5
+          COMMIT_NAME: 'github-actions[bot]'
+          COMMIT_EMAIL: 'github-actions[bot]@users.noreply.github.com'

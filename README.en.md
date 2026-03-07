@@ -28,9 +28,9 @@ Tools:      Git | Linux | VS Code | IntelliJ IDEA
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h1s97x&show_icons=true&theme=radical&hide_border=true)
+  [![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=h1s97x&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h1s97x&layout=compact&theme=radical&hide_border=true)
+  [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=h1s97x&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 

@@ -36,8 +36,8 @@
 
 ## 🔥 最近动态
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
 

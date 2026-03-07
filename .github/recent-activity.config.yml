@@ -1,0 +1,10 @@
+settings:
+  username: "h1s97x"
+  commit_msg: "🚀 更新最近活动"
+  max_lines: 5
+  readme_file: "./README.md"
+  disabled_events:
+    - "comments"
+  url_text: "{REPO}{ID}"
+  commit_username: "github-actions[bot]"
+  commit_email: "github-actions[bot]@users.noreply.github.com"

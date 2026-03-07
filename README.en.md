@@ -36,8 +36,8 @@ Tools:      Git | Linux | VS Code | IntelliJ IDEA
 
 ## 🔥 Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ## 📫 How to Reach Me
 

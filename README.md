@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/Scrapling](https://github.com/h1s97x/Scrapling) from [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-2. ⭐ Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-3. ⭐ Starred [github/gh-aw](https://github.com/github/gh-aw)
-4. ⭐ Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
-5. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)
+1. ⭐ Starred [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
+2. ⭐ Starred [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
+3. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+4. ⭐ Starred [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)
+5. 🔱 Forked [h1s97x/weekly](https://github.com/h1s97x/weekly) from [xuanli199/weekly](https://github.com/xuanli199/weekly)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

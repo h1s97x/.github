@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
-2. ⭐ Starred [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
-3. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-4. ⭐ Starred [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)
-5. 🔱 Forked [h1s97x/weekly](https://github.com/h1s97x/weekly) from [xuanli199/weekly](https://github.com/xuanli199/weekly)
+1. ⭐ Starred [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow)
+2. ⭐ Starred [lfreist/hwinfo](https://github.com/lfreist/hwinfo)
+3. ⭐ Starred [imaNNeo/fl_chart](https://github.com/imaNNeo/fl_chart)
+4. ⭐ Starred [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
+5. ⭐ Starred [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

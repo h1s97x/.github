@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow)
-2. ⭐ Starred [lfreist/hwinfo](https://github.com/lfreist/hwinfo)
-3. ⭐ Starred [imaNNeo/fl_chart](https://github.com/imaNNeo/fl_chart)
-4. ⭐ Starred [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
-5. ⭐ Starred [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
+1. ⭐ Starred [apache/jmeter](https://github.com/apache/jmeter)
+2. ⭐ Starred [nektos/act](https://github.com/nektos/act)
+3. ⭐ Starred [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow)
+4. ⭐ Starred [lfreist/hwinfo](https://github.com/lfreist/hwinfo)
+5. ⭐ Starred [imaNNeo/fl_chart](https://github.com/imaNNeo/fl_chart)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

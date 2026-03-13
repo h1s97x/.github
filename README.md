@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-2. ⭐ Starred [apache/jmeter](https://github.com/apache/jmeter)
-3. ⭐ Starred [nektos/act](https://github.com/nektos/act)
-4. ⭐ Starred [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow)
-5. ⭐ Starred [lfreist/hwinfo](https://github.com/lfreist/hwinfo)
+1. ⭐ Starred [puhaiyang/OpenTrafficFlow](https://github.com/puhaiyang/OpenTrafficFlow)
+2. ⭐ Starred [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
+3. ⭐ Starred [apache/jmeter](https://github.com/apache/jmeter)
+4. ⭐ Starred [nektos/act](https://github.com/nektos/act)
+5. ⭐ Starred [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

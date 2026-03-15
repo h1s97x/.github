@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. ⭐ Starred [puhaiyang/OpenTrafficFlow](https://github.com/puhaiyang/OpenTrafficFlow)
-3. ⭐ Starred [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-4. ⭐ Starred [apache/jmeter](https://github.com/apache/jmeter)
-5. ⭐ Starred [nektos/act](https://github.com/nektos/act)
+1. 🔱 Forked [h1s97x/X-Plore](https://github.com/h1s97x/X-Plore) from [lvy010/X-Plore](https://github.com/lvy010/X-Plore)
+2. ⭐ Starred [lvy010/X-Plore](https://github.com/lvy010/X-Plore)
+3. ⭐ Starred [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter)
+4. ⭐ Starred [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. ⭐ Starred [puhaiyang/OpenTrafficFlow](https://github.com/puhaiyang/OpenTrafficFlow)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

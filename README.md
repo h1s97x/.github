@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/X-Plore](https://github.com/h1s97x/X-Plore) from [lvy010/X-Plore](https://github.com/lvy010/X-Plore)
-2. ⭐ Starred [lvy010/X-Plore](https://github.com/lvy010/X-Plore)
-3. ⭐ Starred [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter)
-4. ⭐ Starred [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. ⭐ Starred [puhaiyang/OpenTrafficFlow](https://github.com/puhaiyang/OpenTrafficFlow)
+1. 🔱 Forked [h1s97x/nofx](https://github.com/h1s97x/nofx) from [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)
+2. ⭐ Starred [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)
+3. ❗️ Opened issue [#4](https://github.com/lvy010/X-Plore/issues/4) in [lvy010/X-Plore](https://github.com/lvy010/X-Plore)
+4. ⭐ Starred [lvy010/X-Plore](https://github.com/lvy010/X-Plore)
+5. ⭐ Starred [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

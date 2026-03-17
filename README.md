@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/nofx](https://github.com/h1s97x/nofx) from [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)
-2. ⭐ Starred [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)
-3. ❗️ Opened issue [#4](https://github.com/lvy010/X-Plore/issues/4) in [lvy010/X-Plore](https://github.com/lvy010/X-Plore)
-4. ⭐ Starred [lvy010/X-Plore](https://github.com/lvy010/X-Plore)
-5. ⭐ Starred [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter)
+1. ⭐ Starred [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so)
+2. 💪 Opened PR [#76](undefined) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
+3. 💪 Opened PR [#75](undefined) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
+4. ❌ Closed PR [#71](undefined) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
+5. 💪 Opened PR [#74](undefined) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

@@ -37,13 +37,18 @@ Tools:      Git | Linux | VS Code | IntelliJ IDEA
 ## 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow)
+2. ⭐ Starred [lfreist/hwinfo](https://github.com/lfreist/hwinfo)
+3. ⭐ Starred [imaNNeo/fl_chart](https://github.com/imaNNeo/fl_chart)
+4. ⭐ Starred [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
+5. ⭐ Starred [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 How to Reach Me
 
 - 💼 GitHub: [@h1s97x](https://github.com/h1s97x)
-- 📧 Email: [Your Email]
-- 🌐 Website: [Your Website]
+- 📧 Email: [Yang1297656998@outlook.com](mailto:Yang1297656998@outlook.com)
+- 🌐 Website: [https://h1s97x.github.io/](https://h1s97x.github.io/)
 
 ## 💡 Featured Projects
 

@@ -47,8 +47,8 @@
 ## 📫 联系方式
 
 - 💼 GitHub: [@h1s97x](https://github.com/h1s97x)
-- 📧 邮箱: [Your Email]
-- 🌐 网站: [Your Website]
+- 📧 邮箱: [Yang1297656998@outlook.com](mailto:Yang1297656998@outlook.com)
+- 🌐 网站: [https://h1s97x.github.io/](https://h1s97x.github.io/)
 
 ## 💡 精选项目
 

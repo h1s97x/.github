@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so)
-2. 💪 Opened PR [#76](undefined) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
-3. 💪 Opened PR [#75](undefined) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
-4. ❌ Closed PR [#71](undefined) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
-5. 💪 Opened PR [#74](undefined) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
+1. 🔱 Forked [h1s97x/Cogito](https://github.com/h1s97x/Cogito) from [YYsuni/2025-blog-public](https://github.com/YYsuni/2025-blog-public)
+2. ⭐ Starred [YYsuni/2025-blog-public](https://github.com/YYsuni/2025-blog-public)
+3. ✔️ Closed issue [#4](https://github.com/lvy010/X-Plore/issues/4) in [lvy010/X-Plore](https://github.com/lvy010/X-Plore)
+4. ⭐ Starred [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so)
+5. 💪 Opened PR [#76](undefined) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

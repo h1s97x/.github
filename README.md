@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/Cogito](https://github.com/h1s97x/Cogito) from [YYsuni/2025-blog-public](https://github.com/YYsuni/2025-blog-public)
-2. ⭐ Starred [YYsuni/2025-blog-public](https://github.com/YYsuni/2025-blog-public)
-3. ✔️ Closed issue [#4](https://github.com/lvy010/X-Plore/issues/4) in [lvy010/X-Plore](https://github.com/lvy010/X-Plore)
-4. ⭐ Starred [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so)
-5. 💪 Opened PR [#76](undefined) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
+1. ⭐ Starred [microsoft/WindowsAdvancedSettings](https://github.com/microsoft/WindowsAdvancedSettings)
+2. 🔱 Forked [h1s97x/lively](https://github.com/h1s97x/lively) from [rocksdanister/lively](https://github.com/rocksdanister/lively)
+3. ⭐ Starred [rocksdanister/lively](https://github.com/rocksdanister/lively)
+4. ⭐ Starred [TangSY/edge-next-starter](https://github.com/TangSY/edge-next-starter)
+5. ⭐ Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/WindowsAdvancedSettings](https://github.com/microsoft/WindowsAdvancedSettings)
-2. 🔱 Forked [h1s97x/lively](https://github.com/h1s97x/lively) from [rocksdanister/lively](https://github.com/rocksdanister/lively)
-3. ⭐ Starred [rocksdanister/lively](https://github.com/rocksdanister/lively)
-4. ⭐ Starred [TangSY/edge-next-starter](https://github.com/TangSY/edge-next-starter)
-5. ⭐ Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)
+1. ⭐ Starred [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)
+2. ⭐ Starred [microsoft/playwright](https://github.com/microsoft/playwright)
+3. ⭐ Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+4. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ⭐ Starred [microsoft/devhome](https://github.com/microsoft/devhome)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

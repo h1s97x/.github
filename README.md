@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)
-2. ⭐ Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-3. ⭐ Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-4. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ⭐ Starred [microsoft/devhome](https://github.com/microsoft/devhome)
+1. ⭐ Starred [esofar/cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence)
+2. ⭐ Starred [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)
+3. ⭐ Starred [octobox/octobox](https://github.com/octobox/octobox)
+4. ⭐ Starred [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)
+5. ⭐ Starred [microsoft/playwright](https://github.com/microsoft/playwright)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

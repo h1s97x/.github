@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [esofar/cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence)
-2. ⭐ Starred [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)
-3. ⭐ Starred [octobox/octobox](https://github.com/octobox/octobox)
-4. ⭐ Starred [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)
-5. ⭐ Starred [microsoft/playwright](https://github.com/microsoft/playwright)
+1. ❗️ Opened issue [#79](https://github.com/hibikilogy/hibikilogy.github.io/issues/79) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
+2. ⭐ Starred [icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent)
+3. ⭐ Starred [esofar/cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence)
+4. ⭐ Starred [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)
+5. ⭐ Starred [octobox/octobox](https://github.com/octobox/octobox)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

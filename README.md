@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#79](https://github.com/hibikilogy/hibikilogy.github.io/issues/79) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
-2. ⭐ Starred [icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent)
-3. ⭐ Starred [esofar/cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence)
-4. ⭐ Starred [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)
-5. ⭐ Starred [octobox/octobox](https://github.com/octobox/octobox)
+1. ⭐ Starred [VisActor/VChart](https://github.com/VisActor/VChart)
+2. ❗️ Opened issue [#79](https://github.com/hibikilogy/hibikilogy.github.io/issues/79) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
+3. ⭐ Starred [icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent)
+4. ⭐ Starred [esofar/cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence)
+5. ⭐ Starred [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

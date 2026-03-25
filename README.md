@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [VisActor/VChart](https://github.com/VisActor/VChart)
-2. ❗️ Opened issue [#79](https://github.com/hibikilogy/hibikilogy.github.io/issues/79) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
-3. ⭐ Starred [icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent)
-4. ⭐ Starred [esofar/cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence)
-5. ⭐ Starred [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)
+1. 🔱 Forked [h1s97x/browser-use](https://github.com/h1s97x/browser-use) from [browser-use/browser-use](https://github.com/browser-use/browser-use)
+2. 🔱 Forked [h1s97x/project-nomad](https://github.com/h1s97x/project-nomad) from [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+3. 🔱 Forked [h1s97x/MoneyPrinterV2](https://github.com/h1s97x/MoneyPrinterV2) from [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+4. 🔱 Forked [h1s97x/minimind](https://github.com/h1s97x/minimind) from [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
+5. 🔱 Forked [h1s97x/TradingAgents](https://github.com/h1s97x/TradingAgents) from [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

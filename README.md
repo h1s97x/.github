@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/browser-use](https://github.com/h1s97x/browser-use) from [browser-use/browser-use](https://github.com/browser-use/browser-use)
-2. 🔱 Forked [h1s97x/project-nomad](https://github.com/h1s97x/project-nomad) from [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-3. 🔱 Forked [h1s97x/MoneyPrinterV2](https://github.com/h1s97x/MoneyPrinterV2) from [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
-4. 🔱 Forked [h1s97x/minimind](https://github.com/h1s97x/minimind) from [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
-5. 🔱 Forked [h1s97x/TradingAgents](https://github.com/h1s97x/TradingAgents) from [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+1. ⭐ Starred [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro)
+2. ⭐ Starred [cli/cli](https://github.com/cli/cli)
+3. 🔱 Forked [h1s97x/ZTools](https://github.com/h1s97x/ZTools) from [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools)
+4. ⭐ Starred [Orphya/orphya.github.io](https://github.com/Orphya/orphya.github.io)
+5. ⭐ Starred [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

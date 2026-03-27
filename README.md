@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro)
-2. ⭐ Starred [cli/cli](https://github.com/cli/cli)
-3. 🔱 Forked [h1s97x/ZTools](https://github.com/h1s97x/ZTools) from [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools)
-4. ⭐ Starred [Orphya/orphya.github.io](https://github.com/Orphya/orphya.github.io)
-5. ⭐ Starred [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools)
+1. ✌️ Released [v1.0.1](https://github.com/h1s97x/gh-follow/releases/tag/v1.0.1) in [h1s97x/gh-follow](https://github.com/h1s97x/gh-follow)
+2. 🔱 Forked [h1s97x/econometric-research](https://github.com/h1s97x/econometric-research) from [undefined](https://github.com/undefined)
+3. 🔱 Forked [h1s97x/bankruptcy-prediction](https://github.com/h1s97x/bankruptcy-prediction) from [undefined](https://github.com/undefined)
+4. 🔱 Forked [h1s97x/Customer_Churn_Prediction](https://github.com/h1s97x/Customer_Churn_Prediction) from [undefined](https://github.com/undefined)
+5. ⭐ Starred [Nurbek-97/Customer_Churn_Prediction](https://github.com/Nurbek-97/Customer_Churn_Prediction)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

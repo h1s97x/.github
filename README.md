@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zhimaAi/ChatClaw](https://github.com/zhimaAi/ChatClaw)
-2. ✌️ Released [v1.0.1](https://github.com/h1s97x/gh-follow/releases/tag/v1.0.1) in [h1s97x/gh-follow](https://github.com/h1s97x/gh-follow)
-3. 🔱 Forked [h1s97x/econometric-research](https://github.com/h1s97x/econometric-research) from [undefined](https://github.com/undefined)
-4. 🔱 Forked [h1s97x/bankruptcy-prediction](https://github.com/h1s97x/bankruptcy-prediction) from [undefined](https://github.com/undefined)
-5. 🔱 Forked [h1s97x/Customer_Churn_Prediction](https://github.com/h1s97x/Customer_Churn_Prediction) from [undefined](https://github.com/undefined)
+1. ⭐ Starred [HO-COOH/FastCopy](https://github.com/HO-COOH/FastCopy)
+2. ⭐ Starred [DingTalk-Real-AI/dingtalk-workspace-cli](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli)
+3. ⭐ Starred [zhimaAi/ChatClaw](https://github.com/zhimaAi/ChatClaw)
+4. ✌️ Released [v1.0.1](https://github.com/h1s97x/gh-follow/releases/tag/v1.0.1) in [h1s97x/gh-follow](https://github.com/h1s97x/gh-follow)
+5. 🔱 Forked [h1s97x/econometric-research](https://github.com/h1s97x/econometric-research) from [undefined](https://github.com/undefined)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

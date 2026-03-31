@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Tencent/tdesign](https://github.com/Tencent/tdesign)
-2. ⭐ Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
-3. ⭐ Starred [fatedier/frp](https://github.com/fatedier/frp)
-4. ⭐ Starred [HO-COOH/FastCopy](https://github.com/HO-COOH/FastCopy)
-5. ⭐ Starred [DingTalk-Real-AI/dingtalk-workspace-cli](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli)
+1. ⭐ Starred [srizzon/git-city](https://github.com/srizzon/git-city)
+2. ⭐ Starred [asadahimeka/pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer)
+3. ⭐ Starred [xyyandxyy/jobseeking](https://github.com/xyyandxyy/jobseeking)
+4. ⭐ Starred [Tencent/tdesign](https://github.com/Tencent/tdesign)
+5. ⭐ Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

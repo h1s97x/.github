@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [srizzon/git-city](https://github.com/srizzon/git-city)
-2. ⭐ Starred [asadahimeka/pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer)
-3. ⭐ Starred [xyyandxyy/jobseeking](https://github.com/xyyandxyy/jobseeking)
-4. ⭐ Starred [Tencent/tdesign](https://github.com/Tencent/tdesign)
-5. ⭐ Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
+1. 🔱 Forked [h1s97x/claude-code-sourcemap](https://github.com/h1s97x/claude-code-sourcemap) from [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)
+2. ⭐ Starred [srizzon/git-city](https://github.com/srizzon/git-city)
+3. ⭐ Starred [asadahimeka/pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer)
+4. ⭐ Starred [xyyandxyy/jobseeking](https://github.com/xyyandxyy/jobseeking)
+5. ⭐ Starred [Tencent/tdesign](https://github.com/Tencent/tdesign)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

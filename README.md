@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
-2. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)
-3. ⭐ Starred [chenglou/pretext](https://github.com/chenglou/pretext)
-4. 🔱 Forked [h1s97x/claude-code-sourcemap](https://github.com/h1s97x/claude-code-sourcemap) from [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)
-5. ⭐ Starred [srizzon/git-city](https://github.com/srizzon/git-city)
+1. ⭐ Starred [pascalorg/editor](https://github.com/pascalorg/editor)
+2. ⭐ Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+3. ⭐ Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
+4. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)
+5. ⭐ Starred [chenglou/pretext](https://github.com/chenglou/pretext)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

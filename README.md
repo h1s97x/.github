@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pascalorg/editor](https://github.com/pascalorg/editor)
-2. ⭐ Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
-3. ⭐ Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
-4. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)
-5. ⭐ Starred [chenglou/pretext](https://github.com/chenglou/pretext)
+1. 🔱 Forked [h1s97x/pretext](https://github.com/h1s97x/pretext) from [chenglou/pretext](https://github.com/chenglou/pretext)
+2. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)
+3. ⭐ Starred [haizlin/fe-interview](https://github.com/haizlin/fe-interview)
+4. ⭐ Starred [pascalorg/editor](https://github.com/pascalorg/editor)
+5. ⭐ Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

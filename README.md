@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openilink/openilink-hub](https://github.com/openilink/openilink-hub)
-2. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
-3. 🔱 Forked [h1s97x/claude-code-book](https://github.com/h1s97x/claude-code-book) from [lintsinghua/claude-code-book](https://github.com/lintsinghua/claude-code-book)
-4. ⭐ Starred [lintsinghua/claude-code-book](https://github.com/lintsinghua/claude-code-book)
-5. ⭐ Starred [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)
+1. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+2. ⭐ Starred [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+3. ⭐ Starred [mootdx/mootdx](https://github.com/mootdx/mootdx)
+4. 🔱 Forked [h1s97x/awesome-design-md](https://github.com/h1s97x/awesome-design-md) from [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+5. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

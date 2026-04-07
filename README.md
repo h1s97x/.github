@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-2. ⭐ Starred [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
-3. ⭐ Starred [mootdx/mootdx](https://github.com/mootdx/mootdx)
-4. 🔱 Forked [h1s97x/awesome-design-md](https://github.com/h1s97x/awesome-design-md) from [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
-5. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+1. ⭐ Starred [YiHok/FPGABuilder](https://github.com/YiHok/FPGABuilder)
+2. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)
+3. ⭐ Starred [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+4. ⭐ Starred [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide)
+5. ⭐ Starred [microsoft/autogen](https://github.com/microsoft/autogen)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

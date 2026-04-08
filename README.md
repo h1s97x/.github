@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [YiHok/FPGABuilder](https://github.com/YiHok/FPGABuilder)
-2. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)
-3. ⭐ Starred [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
-4. ⭐ Starred [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide)
-5. ⭐ Starred [microsoft/autogen](https://github.com/microsoft/autogen)
+1. 🔱 Forked [h1s97x/reference](https://github.com/h1s97x/reference) from [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
+2. ⭐ Starred [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili)
+3. ⭐ Starred [iDvel/rime-ice](https://github.com/iDvel/rime-ice)
+4. ⭐ Starred [YiHok/FPGABuilder](https://github.com/YiHok/FPGABuilder)
+5. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

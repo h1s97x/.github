@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/reference](https://github.com/h1s97x/reference) from [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
-2. ⭐ Starred [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili)
-3. ⭐ Starred [iDvel/rime-ice](https://github.com/iDvel/rime-ice)
-4. ⭐ Starred [YiHok/FPGABuilder](https://github.com/YiHok/FPGABuilder)
-5. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)
+1. 🔱 Forked [h1s97x/ai-money-maker-handbook](https://github.com/h1s97x/ai-money-maker-handbook) from [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook)
+2. ⭐ Starred [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook)
+3. ⭐ Starred [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)
+4. 🔱 Forked [h1s97x/reference](https://github.com/h1s97x/reference) from [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
+5. ⭐ Starred [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

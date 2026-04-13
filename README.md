@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/ai-money-maker-handbook](https://github.com/h1s97x/ai-money-maker-handbook) from [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook)
-2. ⭐ Starred [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook)
-3. ⭐ Starred [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)
-4. 🔱 Forked [h1s97x/reference](https://github.com/h1s97x/reference) from [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
-5. ⭐ Starred [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili)
+1. ⭐ Starred [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
+2. ⭐ Starred [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi)
+3. ⭐ Starred [ccxt/ccxt](https://github.com/ccxt/ccxt)
+4. 🔱 Forked [h1s97x/ai-money-maker-handbook](https://github.com/h1s97x/ai-money-maker-handbook) from [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook)
+5. ⭐ Starred [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

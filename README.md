@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
-2. ⭐ Starred [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi)
-3. ⭐ Starred [ccxt/ccxt](https://github.com/ccxt/ccxt)
-4. 🔱 Forked [h1s97x/ai-money-maker-handbook](https://github.com/h1s97x/ai-money-maker-handbook) from [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook)
-5. ⭐ Starred [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook)
+1. ⭐ Starred [h1s97x/gh-follow](https://github.com/h1s97x/gh-follow)
+2. ⭐ Starred [langgenius/dify](https://github.com/langgenius/dify)
+3. ⭐ Starred [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
+4. ⭐ Starred [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi)
+5. ⭐ Starred [ccxt/ccxt](https://github.com/ccxt/ccxt)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

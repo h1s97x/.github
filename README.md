@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [h1s97x/gh-follow](https://github.com/h1s97x/gh-follow)
-2. ⭐ Starred [langgenius/dify](https://github.com/langgenius/dify)
-3. ⭐ Starred [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
-4. ⭐ Starred [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi)
-5. ⭐ Starred [ccxt/ccxt](https://github.com/ccxt/ccxt)
+1. ❌ Closed PR [#12](undefined) in [h1s97x/gh-repo-visualize](https://github.com/h1s97x/gh-repo-visualize)
+2. ✔️ Closed issue [#6](https://github.com/h1s97x/gh-repo-visualize/issues/6) in [h1s97x/gh-repo-visualize](https://github.com/h1s97x/gh-repo-visualize)
+3. ✔️ Closed issue [#5](https://github.com/h1s97x/gh-repo-visualize/issues/5) in [h1s97x/gh-repo-visualize](https://github.com/h1s97x/gh-repo-visualize)
+4. ✔️ Closed issue [#7](https://github.com/h1s97x/gh-repo-visualize/issues/7) in [h1s97x/gh-repo-visualize](https://github.com/h1s97x/gh-repo-visualize)
+5. 💪 Opened PR [#12](undefined) in [h1s97x/gh-repo-visualize](https://github.com/h1s97x/gh-repo-visualize)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

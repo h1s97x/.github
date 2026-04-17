@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
-2. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
-3. ❌ Closed PR [#12](undefined) in [h1s97x/gh-repo-visualize](https://github.com/h1s97x/gh-repo-visualize)
-4. ✔️ Closed issue [#6](https://github.com/h1s97x/gh-repo-visualize/issues/6) in [h1s97x/gh-repo-visualize](https://github.com/h1s97x/gh-repo-visualize)
-5. ✔️ Closed issue [#5](https://github.com/h1s97x/gh-repo-visualize/issues/5) in [h1s97x/gh-repo-visualize](https://github.com/h1s97x/gh-repo-visualize)
+1. ⭐ Starred [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)
+2. ⭐ Starred [jonnonz1/adaptive-browser](https://github.com/jonnonz1/adaptive-browser)
+3. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+4. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
+5. ❌ Closed PR [#12](undefined) in [h1s97x/gh-repo-visualize](https://github.com/h1s97x/gh-repo-visualize)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

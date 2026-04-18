@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue)
-2. ⭐ Starred [jonnonz1/adaptive-browser](https://github.com/jonnonz1/adaptive-browser)
-3. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
-4. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
-5. ❌ Closed PR [#12](undefined) in [h1s97x/gh-repo-visualize](https://github.com/h1s97x/gh-repo-visualize)
+1. ❗️ Opened issue [#2](https://github.com/ZenKitX/ZenCalc/issues/2) in [ZenKitX/ZenCalc](https://github.com/ZenKitX/ZenCalc)
+2. ❗️ Opened issue [#7](https://github.com/ZenKitX/ZenWeather/issues/7) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
+3. ❗️ Opened issue [#6](https://github.com/ZenKitX/ZenWeather/issues/6) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
+4. ❗️ Opened issue [#5](https://github.com/ZenKitX/ZenWeather/issues/5) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
+5. ❗️ Opened issue [#4](https://github.com/ZenKitX/ZenWeather/issues/4) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2](https://github.com/ZenKitX/ZenCalc/issues/2) in [ZenKitX/ZenCalc](https://github.com/ZenKitX/ZenCalc)
-2. ❗️ Opened issue [#7](https://github.com/ZenKitX/ZenWeather/issues/7) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
-3. ❗️ Opened issue [#6](https://github.com/ZenKitX/ZenWeather/issues/6) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
-4. ❗️ Opened issue [#5](https://github.com/ZenKitX/ZenWeather/issues/5) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
-5. ❗️ Opened issue [#4](https://github.com/ZenKitX/ZenWeather/issues/4) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
+1. ⭐ Starred [LiaoGuoYin/lixian.online](https://github.com/LiaoGuoYin/lixian.online)
+2. 🔱 Forked [h1s97x/Recordly](https://github.com/h1s97x/Recordly) from [webadderall/Recordly](https://github.com/webadderall/Recordly)
+3. ⭐ Starred [webadderall/Recordly](https://github.com/webadderall/Recordly)
+4. 🔱 Forked [h1s97x/andrej-karpathy-skills](https://github.com/h1s97x/andrej-karpathy-skills) from [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+5. ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

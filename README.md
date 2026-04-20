@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LiaoGuoYin/lixian.online](https://github.com/LiaoGuoYin/lixian.online)
-2. 🔱 Forked [h1s97x/Recordly](https://github.com/h1s97x/Recordly) from [webadderall/Recordly](https://github.com/webadderall/Recordly)
-3. ⭐ Starred [webadderall/Recordly](https://github.com/webadderall/Recordly)
-4. 🔱 Forked [h1s97x/andrej-karpathy-skills](https://github.com/h1s97x/andrej-karpathy-skills) from [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-5. ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+1. ❗️ Opened issue [#17](https://github.com/ZenKitX/ZenWeather/issues/17) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
+2. ❗️ Opened issue [#16](https://github.com/ZenKitX/ZenWeather/issues/16) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
+3. ❗️ Opened issue [#15](https://github.com/ZenKitX/ZenWeather/issues/15) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
+4. ❗️ Opened issue [#14](https://github.com/ZenKitX/ZenWeather/issues/14) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
+5. ❗️ Opened issue [#13](https://github.com/ZenKitX/ZenWeather/issues/13) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

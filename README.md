@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#17](https://github.com/ZenKitX/ZenWeather/issues/17) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
-2. ❗️ Opened issue [#16](https://github.com/ZenKitX/ZenWeather/issues/16) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
-3. ❗️ Opened issue [#15](https://github.com/ZenKitX/ZenWeather/issues/15) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
-4. ❗️ Opened issue [#14](https://github.com/ZenKitX/ZenWeather/issues/14) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
-5. ❗️ Opened issue [#13](https://github.com/ZenKitX/ZenWeather/issues/13) in [ZenKitX/ZenWeather](https://github.com/ZenKitX/ZenWeather)
+1. ❗️ Opened issue [#8](https://github.com/ZenKitX/ChinesePoetryKit/issues/8) in [ZenKitX/ChinesePoetryKit](https://github.com/ZenKitX/ChinesePoetryKit)
+2. ❗️ Opened issue [#7](https://github.com/ZenKitX/ChinesePoetryKit/issues/7) in [ZenKitX/ChinesePoetryKit](https://github.com/ZenKitX/ChinesePoetryKit)
+3. ❗️ Opened issue [#6](https://github.com/ZenKitX/ChinesePoetryKit/issues/6) in [ZenKitX/ChinesePoetryKit](https://github.com/ZenKitX/ChinesePoetryKit)
+4. ❗️ Opened issue [#5](https://github.com/ZenKitX/ChinesePoetryKit/issues/5) in [ZenKitX/ChinesePoetryKit](https://github.com/ZenKitX/ChinesePoetryKit)
+5. ❗️ Opened issue [#4](https://github.com/ZenKitX/ChinesePoetryKit/issues/4) in [ZenKitX/ChinesePoetryKit](https://github.com/ZenKitX/ChinesePoetryKit)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

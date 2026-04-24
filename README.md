@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#8](https://github.com/ZenKitX/ChinesePoetryKit/issues/8) in [ZenKitX/ChinesePoetryKit](https://github.com/ZenKitX/ChinesePoetryKit)
-2. ❗️ Opened issue [#7](https://github.com/ZenKitX/ChinesePoetryKit/issues/7) in [ZenKitX/ChinesePoetryKit](https://github.com/ZenKitX/ChinesePoetryKit)
-3. ❗️ Opened issue [#6](https://github.com/ZenKitX/ChinesePoetryKit/issues/6) in [ZenKitX/ChinesePoetryKit](https://github.com/ZenKitX/ChinesePoetryKit)
-4. ❗️ Opened issue [#5](https://github.com/ZenKitX/ChinesePoetryKit/issues/5) in [ZenKitX/ChinesePoetryKit](https://github.com/ZenKitX/ChinesePoetryKit)
-5. ❗️ Opened issue [#4](https://github.com/ZenKitX/ChinesePoetryKit/issues/4) in [ZenKitX/ChinesePoetryKit](https://github.com/ZenKitX/ChinesePoetryKit)
+1. ⭐ Starred [amap-demo/amap-sdk-skills](https://github.com/amap-demo/amap-sdk-skills)
+2. ✔️ Closed issue [#3](https://github.com/ZenKitX/SolarTermKit/issues/3) in [ZenKitX/SolarTermKit](https://github.com/ZenKitX/SolarTermKit)
+3. ✔️ Closed issue [#6](https://github.com/ZenKitX/SolarTermKit/issues/6) in [ZenKitX/SolarTermKit](https://github.com/ZenKitX/SolarTermKit)
+4. ✔️ Closed issue [#5](https://github.com/ZenKitX/WeatherKit/issues/5) in [ZenKitX/WeatherKit](https://github.com/ZenKitX/WeatherKit)
+5. ✔️ Closed issue [#4](https://github.com/ZenKitX/WeatherKit/issues/4) in [ZenKitX/WeatherKit](https://github.com/ZenKitX/WeatherKit)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

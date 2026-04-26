@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [amap-demo/amap-sdk-skills](https://github.com/amap-demo/amap-sdk-skills)
-2. ✔️ Closed issue [#3](https://github.com/ZenKitX/SolarTermKit/issues/3) in [ZenKitX/SolarTermKit](https://github.com/ZenKitX/SolarTermKit)
-3. ✔️ Closed issue [#6](https://github.com/ZenKitX/SolarTermKit/issues/6) in [ZenKitX/SolarTermKit](https://github.com/ZenKitX/SolarTermKit)
-4. ✔️ Closed issue [#5](https://github.com/ZenKitX/WeatherKit/issues/5) in [ZenKitX/WeatherKit](https://github.com/ZenKitX/WeatherKit)
-5. ✔️ Closed issue [#4](https://github.com/ZenKitX/WeatherKit/issues/4) in [ZenKitX/WeatherKit](https://github.com/ZenKitX/WeatherKit)
+1. 🔱 Forked [h1s97x/apprise](https://github.com/h1s97x/apprise) from [caronc/apprise](https://github.com/caronc/apprise)
+2. ⭐ Starred [caronc/apprise](https://github.com/caronc/apprise)
+3. ⭐ Starred [venera-app/venera-configs](https://github.com/venera-app/venera-configs)
+4. 🔱 Forked [h1s97x/venera](https://github.com/h1s97x/venera) from [venera-app/venera](https://github.com/venera-app/venera)
+5. ⭐ Starred [amap-demo/amap-sdk-skills](https://github.com/amap-demo/amap-sdk-skills)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

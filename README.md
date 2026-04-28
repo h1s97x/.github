@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/apprise](https://github.com/h1s97x/apprise) from [caronc/apprise](https://github.com/caronc/apprise)
-2. ⭐ Starred [caronc/apprise](https://github.com/caronc/apprise)
-3. ⭐ Starred [venera-app/venera-configs](https://github.com/venera-app/venera-configs)
-4. 🔱 Forked [h1s97x/venera](https://github.com/h1s97x/venera) from [venera-app/venera](https://github.com/venera-app/venera)
-5. ⭐ Starred [amap-demo/amap-sdk-skills](https://github.com/amap-demo/amap-sdk-skills)
+1. ⭐ Starred [tuna/thuthesis](https://github.com/tuna/thuthesis)
+2. 🔱 Forked [h1s97x/apprise](https://github.com/h1s97x/apprise) from [caronc/apprise](https://github.com/caronc/apprise)
+3. ⭐ Starred [caronc/apprise](https://github.com/caronc/apprise)
+4. ⭐ Starred [venera-app/venera-configs](https://github.com/venera-app/venera-configs)
+5. 🔱 Forked [h1s97x/venera](https://github.com/h1s97x/venera) from [venera-app/venera](https://github.com/venera-app/venera)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

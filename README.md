@@ -37,9 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)
-2. 🔱 Forked [h1s97x/nekocomic-configs](https://github.com/h1s97x/nekocomic-configs) from [venera-app/venera-configs](https://github.com/venera-app/venera-configs)
-3. ⭐ Starred [tuna/thuthesis](https://github.com/tuna/thuthesis)
+1. 💪 Opened PR [#1](undefined) in [h1s97x/LoggerKit](https://github.com/h1s97x/LoggerKit)
+2. ⭐ Starred [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+3. ⭐ Starred [Aider-AI/aider](https://github.com/Aider-AI/aider)
+4. ⭐ Starred [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)
+5. 🔱 Forked [h1s97x/nekocomic-configs](https://github.com/h1s97x/nekocomic-configs) from [venera-app/venera-configs](https://github.com/venera-app/venera-configs)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

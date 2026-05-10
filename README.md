@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zotero-chinese/styles](https://github.com/zotero-chinese/styles)
-2. 💪 Opened PR [#1](undefined) in [h1s97x/LoggerKit](https://github.com/h1s97x/LoggerKit)
-3. ⭐ Starred [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-4. ⭐ Starred [Aider-AI/aider](https://github.com/Aider-AI/aider)
-5. ⭐ Starred [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)
+1. ⭐ Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)
+2. ⭐ Starred [zotero-chinese/styles](https://github.com/zotero-chinese/styles)
+3. 💪 Opened PR [#1](undefined) in [h1s97x/LoggerKit](https://github.com/h1s97x/LoggerKit)
+4. ⭐ Starred [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+5. ⭐ Starred [Aider-AI/aider](https://github.com/Aider-AI/aider)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
-2. ⭐ Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)
-3. ⭐ Starred [zotero-chinese/styles](https://github.com/zotero-chinese/styles)
-4. 💪 Opened PR [#1](undefined) in [h1s97x/LoggerKit](https://github.com/h1s97x/LoggerKit)
-5. ⭐ Starred [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+1. ⭐ Starred [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents)
+2. ⭐ Starred [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
+3. 💪 Opened PR [#1](undefined) in [h1s97x/InvoiceVision](https://github.com/h1s97x/InvoiceVision)
+4. ⭐ Starred [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
+5. ⭐ Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

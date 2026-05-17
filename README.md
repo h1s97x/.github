@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents)
-2. ⭐ Starred [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
-3. 💪 Opened PR [#1](undefined) in [h1s97x/InvoiceVision](https://github.com/h1s97x/InvoiceVision)
-4. ⭐ Starred [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
-5. ⭐ Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)
+1. 💪 Opened PR [#94](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
+2. 💪 Opened PR [#19](undefined) in [h1s97x/PyCryptoLab](https://github.com/h1s97x/PyCryptoLab)
+3. 💪 Opened PR [#18](undefined) in [h1s97x/PyCryptoLab](https://github.com/h1s97x/PyCryptoLab)
+4. 💪 Opened PR [#93](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
+5. 💪 Opened PR [#13](undefined) in [h1s97x/sduthesis](https://github.com/h1s97x/sduthesis)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

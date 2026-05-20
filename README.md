@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#20](undefined) in [h1s97x/hexo-theme-almagest](https://github.com/h1s97x/hexo-theme-almagest)
-2. ⭐ Starred [flutter/flutter](https://github.com/flutter/flutter)
-3. 💪 Opened PR [#95](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
-4. 💪 Opened PR [#94](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
-5. 💪 Opened PR [#19](undefined) in [h1s97x/PyCryptoLab](https://github.com/h1s97x/PyCryptoLab)
+1. 💪 Opened PR [#3](undefined) in [h1s97x/smart-customer](https://github.com/h1s97x/smart-customer)
+2. 💪 Opened PR [#2](undefined) in [h1s97x/smart-customer](https://github.com/h1s97x/smart-customer)
+3. 💪 Opened PR [#1](undefined) in [h1s97x/smart-customer](https://github.com/h1s97x/smart-customer)
+4. 💪 Opened PR [#20](undefined) in [h1s97x/hexo-theme-almagest](https://github.com/h1s97x/hexo-theme-almagest)
+5. ⭐ Starred [flutter/flutter](https://github.com/flutter/flutter)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

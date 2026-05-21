@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3](undefined) in [h1s97x/smart-customer](https://github.com/h1s97x/smart-customer)
-2. 💪 Opened PR [#2](undefined) in [h1s97x/smart-customer](https://github.com/h1s97x/smart-customer)
-3. 💪 Opened PR [#1](undefined) in [h1s97x/smart-customer](https://github.com/h1s97x/smart-customer)
-4. 💪 Opened PR [#20](undefined) in [h1s97x/hexo-theme-almagest](https://github.com/h1s97x/hexo-theme-almagest)
-5. ⭐ Starred [flutter/flutter](https://github.com/flutter/flutter)
+1. 🔱 Forked [h1s97x/pi](https://github.com/h1s97x/pi) from [earendil-works/pi](https://github.com/earendil-works/pi)
+2. ⭐ Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+3. 💪 Opened PR [#5](undefined) in [h1s97x/smart-customer](https://github.com/h1s97x/smart-customer)
+4. 💪 Opened PR [#4](undefined) in [h1s97x/smart-customer](https://github.com/h1s97x/smart-customer)
+5. 💪 Opened PR [#3](undefined) in [h1s97x/smart-customer](https://github.com/h1s97x/smart-customer)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

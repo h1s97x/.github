@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/pi](https://github.com/h1s97x/pi) from [earendil-works/pi](https://github.com/earendil-works/pi)
-2. ⭐ Starred [earendil-works/pi](https://github.com/earendil-works/pi)
-3. 💪 Opened PR [#5](undefined) in [h1s97x/smart-customer](https://github.com/h1s97x/smart-customer)
-4. 💪 Opened PR [#4](undefined) in [h1s97x/smart-customer](https://github.com/h1s97x/smart-customer)
-5. 💪 Opened PR [#3](undefined) in [h1s97x/smart-customer](https://github.com/h1s97x/smart-customer)
+1. ⭐ Starred [AgibotTech/agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer)
+2. ⭐ Starred [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide)
+3. ⭐ Starred [mi0e/BiliBiliDropsMiner](https://github.com/mi0e/BiliBiliDropsMiner)
+4. 🔱 Forked [h1s97x/pi](https://github.com/h1s97x/pi) from [earendil-works/pi](https://github.com/earendil-works/pi)
+5. ⭐ Starred [earendil-works/pi](https://github.com/earendil-works/pi)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AgibotTech/agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer)
-2. ⭐ Starred [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide)
-3. ⭐ Starred [mi0e/BiliBiliDropsMiner](https://github.com/mi0e/BiliBiliDropsMiner)
-4. 🔱 Forked [h1s97x/pi](https://github.com/h1s97x/pi) from [earendil-works/pi](https://github.com/earendil-works/pi)
-5. ⭐ Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+1. 🔱 Forked [h1s97x/ReadAny](https://github.com/h1s97x/ReadAny) from [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny)
+2. ⭐ Starred [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny)
+3. 🔱 Forked [h1s97x/bleachbit](https://github.com/h1s97x/bleachbit) from [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit)
+4. ⭐ Starred [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit)
+5. ⭐ Starred [PLFJY/ContextMenuMgr](https://github.com/PLFJY/ContextMenuMgr)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

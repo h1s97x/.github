@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/ReadAny](https://github.com/h1s97x/ReadAny) from [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny)
-2. ⭐ Starred [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny)
-3. 🔱 Forked [h1s97x/bleachbit](https://github.com/h1s97x/bleachbit) from [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit)
-4. ⭐ Starred [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit)
-5. ⭐ Starred [PLFJY/ContextMenuMgr](https://github.com/PLFJY/ContextMenuMgr)
+1. ⭐ Starred [chiupam/invoiceOCR](https://github.com/chiupam/invoiceOCR)
+2. 🔱 Forked [h1s97x/ReadAny](https://github.com/h1s97x/ReadAny) from [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny)
+3. ⭐ Starred [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny)
+4. 🔱 Forked [h1s97x/bleachbit](https://github.com/h1s97x/bleachbit) from [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit)
+5. ⭐ Starred [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

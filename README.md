@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chiupam/invoiceOCR](https://github.com/chiupam/invoiceOCR)
-2. 🔱 Forked [h1s97x/ReadAny](https://github.com/h1s97x/ReadAny) from [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny)
-3. ⭐ Starred [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny)
-4. 🔱 Forked [h1s97x/bleachbit](https://github.com/h1s97x/bleachbit) from [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit)
-5. ⭐ Starred [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit)
+1. ⭐ Starred [Unclecheng-li/AI-Animation-Skill](https://github.com/Unclecheng-li/AI-Animation-Skill)
+2. ⭐ Starred [chiupam/invoiceOCR](https://github.com/chiupam/invoiceOCR)
+3. 🔱 Forked [h1s97x/ReadAny](https://github.com/h1s97x/ReadAny) from [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny)
+4. ⭐ Starred [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny)
+5. 🔱 Forked [h1s97x/bleachbit](https://github.com/h1s97x/bleachbit) from [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

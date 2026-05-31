@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vitejs/vite](https://github.com/vitejs/vite)
-2. ⭐ Starred [Unclecheng-li/AI-Animation-Skill](https://github.com/Unclecheng-li/AI-Animation-Skill)
-3. ⭐ Starred [chiupam/invoiceOCR](https://github.com/chiupam/invoiceOCR)
-4. 🔱 Forked [h1s97x/ReadAny](https://github.com/h1s97x/ReadAny) from [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny)
-5. ⭐ Starred [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny)
+1. 💪 Opened PR [#21](undefined) in [h1s97x/hexo-theme-almagest](https://github.com/h1s97x/hexo-theme-almagest)
+2. ⭐ Starred [vitejs/vite](https://github.com/vitejs/vite)
+3. ⭐ Starred [Unclecheng-li/AI-Animation-Skill](https://github.com/Unclecheng-li/AI-Animation-Skill)
+4. ⭐ Starred [chiupam/invoiceOCR](https://github.com/chiupam/invoiceOCR)
+5. 🔱 Forked [h1s97x/ReadAny](https://github.com/h1s97x/ReadAny) from [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#21](undefined) in [h1s97x/hexo-theme-almagest](https://github.com/h1s97x/hexo-theme-almagest)
-2. ⭐ Starred [vitejs/vite](https://github.com/vitejs/vite)
-3. ⭐ Starred [Unclecheng-li/AI-Animation-Skill](https://github.com/Unclecheng-li/AI-Animation-Skill)
-4. ⭐ Starred [chiupam/invoiceOCR](https://github.com/chiupam/invoiceOCR)
-5. 🔱 Forked [h1s97x/ReadAny](https://github.com/h1s97x/ReadAny) from [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny)
+1. ⭐ Starred [ShadeAlsha/MathNet](https://github.com/ShadeAlsha/MathNet)
+2. 💪 Opened PR [#21](undefined) in [h1s97x/hexo-theme-almagest](https://github.com/h1s97x/hexo-theme-almagest)
+3. ⭐ Starred [vitejs/vite](https://github.com/vitejs/vite)
+4. ⭐ Starred [Unclecheng-li/AI-Animation-Skill](https://github.com/Unclecheng-li/AI-Animation-Skill)
+5. ⭐ Starred [chiupam/invoiceOCR](https://github.com/chiupam/invoiceOCR)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

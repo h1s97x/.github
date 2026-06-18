@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
-2. ⭐ Starred [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)
-3. ⭐ Starred [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop)
-4. ⭐ Starred [ShadeAlsha/MathNet](https://github.com/ShadeAlsha/MathNet)
-5. 💪 Opened PR [#21](undefined) in [h1s97x/hexo-theme-almagest](https://github.com/h1s97x/hexo-theme-almagest)
+1. ⭐ Starred [huggingface/transformers](https://github.com/huggingface/transformers)
+2. 🔱 Forked [h1s97x/vscode-translate-next](https://github.com/h1s97x/vscode-translate-next) from [yxw007/vscode-translate-next](https://github.com/yxw007/vscode-translate-next)
+3. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
+4. ⭐ Starred [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)
+5. ⭐ Starred [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

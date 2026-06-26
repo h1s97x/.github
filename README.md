@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [huggingface/transformers](https://github.com/huggingface/transformers)
-2. 🔱 Forked [h1s97x/vscode-translate-next](https://github.com/h1s97x/vscode-translate-next) from [yxw007/vscode-translate-next](https://github.com/yxw007/vscode-translate-next)
-3. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
-4. ⭐ Starred [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)
-5. ⭐ Starred [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop)
+1. ⭐ Starred [EpicGames/lore](https://github.com/EpicGames/lore)
+2. ❗️ Opened issue [#10459](https://github.com/ruanyf/weekly/issues/10459) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+3. 🔱 Forked [h1s97x/weekly-1](https://github.com/h1s97x/weekly-1) from [ruanyf/weekly](https://github.com/ruanyf/weekly)
+4. ⭐ Starred [huggingface/transformers](https://github.com/huggingface/transformers)
+5. 🔱 Forked [h1s97x/vscode-translate-next](https://github.com/h1s97x/vscode-translate-next) from [yxw007/vscode-translate-next](https://github.com/yxw007/vscode-translate-next)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

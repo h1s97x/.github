@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [EpicGames/lore](https://github.com/EpicGames/lore)
-2. ❗️ Opened issue [#10459](https://github.com/ruanyf/weekly/issues/10459) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
-3. 🔱 Forked [h1s97x/weekly-1](https://github.com/h1s97x/weekly-1) from [ruanyf/weekly](https://github.com/ruanyf/weekly)
-4. ⭐ Starred [huggingface/transformers](https://github.com/huggingface/transformers)
-5. 🔱 Forked [h1s97x/vscode-translate-next](https://github.com/h1s97x/vscode-translate-next) from [yxw007/vscode-translate-next](https://github.com/yxw007/vscode-translate-next)
+1. 💪 Opened PR [#10460](undefined) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+2. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+3. ⭐ Starred [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)
+4. ⭐ Starred [EpicGames/lore](https://github.com/EpicGames/lore)
+5. ❗️ Opened issue [#10459](https://github.com/ruanyf/weekly/issues/10459) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

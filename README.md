@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#10460](undefined) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
-2. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-3. ⭐ Starred [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)
-4. ⭐ Starred [EpicGames/lore](https://github.com/EpicGames/lore)
-5. ❗️ Opened issue [#10459](https://github.com/ruanyf/weekly/issues/10459) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+1. ⭐ Starred [upstash/context7](https://github.com/upstash/context7)
+2. ⭐ Starred [vuejs/pinia](https://github.com/vuejs/pinia)
+3. ⭐ Starred [vuejs/core](https://github.com/vuejs/core)
+4. ⭐ Starred [Homebrew/brew](https://github.com/Homebrew/brew)
+5. 💪 Opened PR [#10460](undefined) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

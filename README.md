@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#72](https://github.com/TencentEdgeOne/pages-templates/issues/72) in [TencentEdgeOne/pages-templates](https://github.com/TencentEdgeOne/pages-templates)
-2. ❗️ Opened issue [#72](https://github.com/TencentEdgeOne/pages-templates/issues/72) in [TencentEdgeOne/pages-templates](https://github.com/TencentEdgeOne/pages-templates)
-3. ⭐ Starred [upstash/context7](https://github.com/upstash/context7)
-4. ⭐ Starred [vuejs/pinia](https://github.com/vuejs/pinia)
-5. ⭐ Starred [vuejs/core](https://github.com/vuejs/core)
+1. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
+2. ✔️ Closed issue [#72](https://github.com/TencentEdgeOne/pages-templates/issues/72) in [TencentEdgeOne/pages-templates](https://github.com/TencentEdgeOne/pages-templates)
+3. ❗️ Opened issue [#72](https://github.com/TencentEdgeOne/pages-templates/issues/72) in [TencentEdgeOne/pages-templates](https://github.com/TencentEdgeOne/pages-templates)
+4. ⭐ Starred [upstash/context7](https://github.com/upstash/context7)
+5. ⭐ Starred [vuejs/pinia](https://github.com/vuejs/pinia)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

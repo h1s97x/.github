@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
-2. ✔️ Closed issue [#72](https://github.com/TencentEdgeOne/pages-templates/issues/72) in [TencentEdgeOne/pages-templates](https://github.com/TencentEdgeOne/pages-templates)
-3. ❗️ Opened issue [#72](https://github.com/TencentEdgeOne/pages-templates/issues/72) in [TencentEdgeOne/pages-templates](https://github.com/TencentEdgeOne/pages-templates)
-4. ⭐ Starred [upstash/context7](https://github.com/upstash/context7)
-5. ⭐ Starred [vuejs/pinia](https://github.com/vuejs/pinia)
+1. ⭐ Starred [modelscope/ms-swift](https://github.com/modelscope/ms-swift)
+2. ⭐ Starred [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab)
+3. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
+4. ✔️ Closed issue [#72](https://github.com/TencentEdgeOne/pages-templates/issues/72) in [TencentEdgeOne/pages-templates](https://github.com/TencentEdgeOne/pages-templates)
+5. ❗️ Opened issue [#72](https://github.com/TencentEdgeOne/pages-templates/issues/72) in [TencentEdgeOne/pages-templates](https://github.com/TencentEdgeOne/pages-templates)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

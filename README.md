@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [modelscope/ms-swift](https://github.com/modelscope/ms-swift)
-2. ⭐ Starred [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab)
-3. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
-4. ✔️ Closed issue [#72](https://github.com/TencentEdgeOne/pages-templates/issues/72) in [TencentEdgeOne/pages-templates](https://github.com/TencentEdgeOne/pages-templates)
-5. ❗️ Opened issue [#72](https://github.com/TencentEdgeOne/pages-templates/issues/72) in [TencentEdgeOne/pages-templates](https://github.com/TencentEdgeOne/pages-templates)
+1. ⭐ Starred [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
+2. ⭐ Starred [modelscope/ms-swift](https://github.com/modelscope/ms-swift)
+3. ⭐ Starred [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab)
+4. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
+5. ✔️ Closed issue [#72](https://github.com/TencentEdgeOne/pages-templates/issues/72) in [TencentEdgeOne/pages-templates](https://github.com/TencentEdgeOne/pages-templates)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

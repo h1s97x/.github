@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#122](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
-2. 💪 Opened PR [#121](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
-3. ❌ Closed PR [#119](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
-4. 💪 Opened PR [#120](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
-5. 💪 Opened PR [#119](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
+1. ⭐ Starred [Link-/gh-token](https://github.com/Link-/gh-token)
+2. 💪 Opened PR [#122](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
+3. 💪 Opened PR [#121](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
+4. ❌ Closed PR [#119](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
+5. 💪 Opened PR [#120](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#141](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
-2. ⭐ Starred [imcuttle/flipbook-app](https://github.com/imcuttle/flipbook-app)
-3. 💪 Opened PR [#140](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
-4. 💪 Opened PR [#139](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
-5. 💪 Opened PR [#138](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
+1. ❌ Closed PR [#21](undefined) in [h1s97x/hexo-theme-almagest](https://github.com/h1s97x/hexo-theme-almagest)
+2. ✔️ Closed issue [#18](https://github.com/h1s97x/sduthesis/issues/18) in [h1s97x/sduthesis](https://github.com/h1s97x/sduthesis)
+3. ✔️ Closed issue [#16](https://github.com/h1s97x/sduthesis/issues/16) in [h1s97x/sduthesis](https://github.com/h1s97x/sduthesis)
+4. ✔️ Closed issue [#15](https://github.com/h1s97x/sduthesis/issues/15) in [h1s97x/sduthesis](https://github.com/h1s97x/sduthesis)
+5. ✔️ Closed issue [#14](https://github.com/h1s97x/sduthesis/issues/14) in [h1s97x/sduthesis](https://github.com/h1s97x/sduthesis)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

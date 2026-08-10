@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#122](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
-2. ❌ Closed PR [#120](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
-3. 👍 Approved [#143](https://github.com/h1s97x/H1S97X.github.io/pull/143#pullrequestreview-4882722792) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
-4. 👍 Approved [#142](https://github.com/h1s97x/H1S97X.github.io/pull/142#pullrequestreview-4882718412) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
-5. 👍 Approved [#1](https://github.com/h1s97x/persona-compendium/pull/1#pullrequestreview-4881005951) in [h1s97x/persona-compendium](https://github.com/h1s97x/persona-compendium)
+1. 🔱 Forked [h1s97x/alist](https://github.com/h1s97x/alist) from [AlistGo/alist](https://github.com/AlistGo/alist)
+2. ❌ Closed PR [#122](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
+3. ❌ Closed PR [#120](undefined) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
+4. 👍 Approved [#143](https://github.com/h1s97x/H1S97X.github.io/pull/143#pullrequestreview-4882722792) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
+5. 👍 Approved [#142](https://github.com/h1s97x/H1S97X.github.io/pull/142#pullrequestreview-4882718412) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

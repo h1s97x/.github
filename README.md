@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/semi-design](https://github.com/h1s97x/semi-design) from [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design)
-2. ⭐ Starred [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design)
-3. 👍 Approved [#1](https://github.com/h1s97x/inspiration-canvas/pull/1#pullrequestreview-4903227186) in [h1s97x/inspiration-canvas](https://github.com/h1s97x/inspiration-canvas)
-4. ⭐ Starred [rime/librime](https://github.com/rime/librime)
-5. 🔱 Forked [h1s97x/alist](https://github.com/h1s97x/alist) from [AlistGo/alist](https://github.com/AlistGo/alist)
+1. ⭐ Starred [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml)
+2. ⭐ Starred [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid)
+3. ⭐ Starred [DonJayamanne/gitHistoryVSCode](https://github.com/DonJayamanne/gitHistoryVSCode)
+4. 🔱 Forked [h1s97x/vscode-yaml](https://github.com/h1s97x/vscode-yaml) from [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml)
+5. 🔱 Forked [h1s97x/vscode-markdown-mermaid](https://github.com/h1s97x/vscode-markdown-mermaid) from [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

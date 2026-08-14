@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml)
-2. ⭐ Starred [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid)
-3. ⭐ Starred [DonJayamanne/gitHistoryVSCode](https://github.com/DonJayamanne/gitHistoryVSCode)
-4. 🔱 Forked [h1s97x/vscode-yaml](https://github.com/h1s97x/vscode-yaml) from [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml)
-5. 🔱 Forked [h1s97x/vscode-markdown-mermaid](https://github.com/h1s97x/vscode-markdown-mermaid) from [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid)
+1. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+2. 🔱 Forked [h1s97x/agentkit-samples](https://github.com/h1s97x/agentkit-samples) from [bytedance/agentkit-samples](https://github.com/bytedance/agentkit-samples)
+3. 🔱 Forked [h1s97x/github-mcp-server](https://github.com/h1s97x/github-mcp-server) from [github/github-mcp-server](https://github.com/github/github-mcp-server)
+4. ⭐ Starred [github/github-mcp-server](https://github.com/github/github-mcp-server)
+5. 🔱 Forked [h1s97x/superpowers](https://github.com/h1s97x/superpowers) from [obra/superpowers](https://github.com/obra/superpowers)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

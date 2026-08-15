@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-2. 🔱 Forked [h1s97x/agentkit-samples](https://github.com/h1s97x/agentkit-samples) from [bytedance/agentkit-samples](https://github.com/bytedance/agentkit-samples)
-3. 🔱 Forked [h1s97x/github-mcp-server](https://github.com/h1s97x/github-mcp-server) from [github/github-mcp-server](https://github.com/github/github-mcp-server)
-4. ⭐ Starred [github/github-mcp-server](https://github.com/github/github-mcp-server)
-5. 🔱 Forked [h1s97x/superpowers](https://github.com/h1s97x/superpowers) from [obra/superpowers](https://github.com/obra/superpowers)
+1. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+2. 🔱 Forked [h1s97x/deepseek-harness](https://github.com/h1s97x/deepseek-harness) from [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+3. ⭐ Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+4. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+5. 🔱 Forked [h1s97x/agentkit-samples](https://github.com/h1s97x/agentkit-samples) from [bytedance/agentkit-samples](https://github.com/bytedance/agentkit-samples)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

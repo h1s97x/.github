@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
-2. 🔱 Forked [h1s97x/deepseek-harness](https://github.com/h1s97x/deepseek-harness) from [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-3. ⭐ Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-4. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-5. 🔱 Forked [h1s97x/agentkit-samples](https://github.com/h1s97x/agentkit-samples) from [bytedance/agentkit-samples](https://github.com/bytedance/agentkit-samples)
+1. ⭐ Starred [frappe/books](https://github.com/frappe/books)
+2. 💪 Opened PR [#1](undefined) in [h1s97x/action-gh-social-graph](https://github.com/h1s97x/action-gh-social-graph)
+3. 👍 Approved [#1](https://github.com/h1s97x/universal-admin/pull/1#pullrequestreview-4943391130) in [h1s97x/universal-admin](https://github.com/h1s97x/universal-admin)
+4. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+5. 🔱 Forked [h1s97x/deepseek-harness](https://github.com/h1s97x/deepseek-harness) from [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [frappe/books](https://github.com/frappe/books)
-2. 💪 Opened PR [#1](undefined) in [h1s97x/action-gh-social-graph](https://github.com/h1s97x/action-gh-social-graph)
-3. 👍 Approved [#1](https://github.com/h1s97x/universal-admin/pull/1#pullrequestreview-4943391130) in [h1s97x/universal-admin](https://github.com/h1s97x/universal-admin)
-4. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
-5. 🔱 Forked [h1s97x/deepseek-harness](https://github.com/h1s97x/deepseek-harness) from [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+1. 👍 Approved [#4](https://github.com/h1s97x/ReadAny/pull/4#pullrequestreview-4946535698) in [h1s97x/ReadAny](https://github.com/h1s97x/ReadAny)
+2. 💪 Opened PR [#5](undefined) in [h1s97x/ReadAny](https://github.com/h1s97x/ReadAny)
+3. 👍 Approved [#2](https://github.com/h1s97x/ReadAny/pull/2#pullrequestreview-4946392679) in [h1s97x/ReadAny](https://github.com/h1s97x/ReadAny)
+4. 👍 Approved [#1](https://github.com/h1s97x/ReadAny/pull/1#pullrequestreview-4946391547) in [h1s97x/ReadAny](https://github.com/h1s97x/ReadAny)
+5. 💪 Opened PR [#21](undefined) in [h1s97x/sduthesis](https://github.com/h1s97x/sduthesis)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

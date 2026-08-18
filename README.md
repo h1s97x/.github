@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#4](https://github.com/h1s97x/ReadAny/pull/4#pullrequestreview-4946535698) in [h1s97x/ReadAny](https://github.com/h1s97x/ReadAny)
-2. 💪 Opened PR [#5](undefined) in [h1s97x/ReadAny](https://github.com/h1s97x/ReadAny)
-3. 👍 Approved [#2](https://github.com/h1s97x/ReadAny/pull/2#pullrequestreview-4946392679) in [h1s97x/ReadAny](https://github.com/h1s97x/ReadAny)
-4. 👍 Approved [#1](https://github.com/h1s97x/ReadAny/pull/1#pullrequestreview-4946391547) in [h1s97x/ReadAny](https://github.com/h1s97x/ReadAny)
-5. 💪 Opened PR [#21](undefined) in [h1s97x/sduthesis](https://github.com/h1s97x/sduthesis)
+1. ⭐ Starred [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)
+2. ⭐ Starred [Liam0205/sduthesis](https://github.com/Liam0205/sduthesis)
+3. 👍 Approved [#147](https://github.com/h1s97x/H1S97X.github.io/pull/147#pullrequestreview-4947997239) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
+4. 👍 Approved [#148](https://github.com/h1s97x/H1S97X.github.io/pull/148#pullrequestreview-4947989495) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
+5. 👍 Approved [#145](https://github.com/h1s97x/H1S97X.github.io/pull/145#pullrequestreview-4947912921) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

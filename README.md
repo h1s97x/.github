@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)
-2. ⭐ Starred [Liam0205/sduthesis](https://github.com/Liam0205/sduthesis)
-3. 👍 Approved [#147](https://github.com/h1s97x/H1S97X.github.io/pull/147#pullrequestreview-4947997239) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
-4. 👍 Approved [#148](https://github.com/h1s97x/H1S97X.github.io/pull/148#pullrequestreview-4947989495) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
-5. 👍 Approved [#145](https://github.com/h1s97x/H1S97X.github.io/pull/145#pullrequestreview-4947912921) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
+1. 🔱 Forked [h1s97x/anx-reader](https://github.com/h1s97x/anx-reader) from [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
+2. ⭐ Starred [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
+3. ⭐ Starred [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)
+4. ⭐ Starred [Liam0205/sduthesis](https://github.com/Liam0205/sduthesis)
+5. 👍 Approved [#147](https://github.com/h1s97x/H1S97X.github.io/pull/147#pullrequestreview-4947997239) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

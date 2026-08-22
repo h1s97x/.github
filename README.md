@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/anx-reader](https://github.com/h1s97x/anx-reader) from [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
-2. ⭐ Starred [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
-3. ⭐ Starred [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)
-4. ⭐ Starred [Liam0205/sduthesis](https://github.com/Liam0205/sduthesis)
-5. 👍 Approved [#147](https://github.com/h1s97x/H1S97X.github.io/pull/147#pullrequestreview-4947997239) in [h1s97x/H1S97X.github.io](https://github.com/h1s97x/H1S97X.github.io)
+1. 🔱 Forked [h1s97x/ds3os](https://github.com/h1s97x/ds3os) from [TLeonardUK/ds3os](https://github.com/TLeonardUK/ds3os)
+2. 🔱 Forked [h1s97x/anx-reader](https://github.com/h1s97x/anx-reader) from [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
+3. ⭐ Starred [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
+4. ⭐ Starred [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)
+5. ⭐ Starred [Liam0205/sduthesis](https://github.com/Liam0205/sduthesis)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/ds3os](https://github.com/h1s97x/ds3os) from [TLeonardUK/ds3os](https://github.com/TLeonardUK/ds3os)
-2. 🔱 Forked [h1s97x/anx-reader](https://github.com/h1s97x/anx-reader) from [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
-3. ⭐ Starred [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
-4. ⭐ Starred [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)
-5. ⭐ Starred [Liam0205/sduthesis](https://github.com/Liam0205/sduthesis)
+1. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)
+2. ⭐ Starred [marktext/marktext](https://github.com/marktext/marktext)
+3. 🔱 Forked [h1s97x/ds3os](https://github.com/h1s97x/ds3os) from [TLeonardUK/ds3os](https://github.com/TLeonardUK/ds3os)
+4. 🔱 Forked [h1s97x/anx-reader](https://github.com/h1s97x/anx-reader) from [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
+5. ⭐ Starred [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

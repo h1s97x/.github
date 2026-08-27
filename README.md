@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)
-2. ⭐ Starred [marktext/marktext](https://github.com/marktext/marktext)
-3. 🔱 Forked [h1s97x/ds3os](https://github.com/h1s97x/ds3os) from [TLeonardUK/ds3os](https://github.com/TLeonardUK/ds3os)
-4. 🔱 Forked [h1s97x/anx-reader](https://github.com/h1s97x/anx-reader) from [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
-5. ⭐ Starred [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
+1. ⭐ Starred [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. ⭐ Starred [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app)
+3. ⭐ Starred [aria2/aria2](https://github.com/aria2/aria2)
+4. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)
+5. ⭐ Starred [marktext/marktext](https://github.com/marktext/marktext)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

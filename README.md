@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. ⭐ Starred [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app)
-3. ⭐ Starred [aria2/aria2](https://github.com/aria2/aria2)
-4. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)
-5. ⭐ Starred [marktext/marktext](https://github.com/marktext/marktext)
+1. ⭐ Starred [amiaoapp/PicLite](https://github.com/amiaoapp/PicLite)
+2. ⭐ Starred [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. ⭐ Starred [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app)
+4. ⭐ Starred [aria2/aria2](https://github.com/aria2/aria2)
+5. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

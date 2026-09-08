@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#4](undefined) in [ZenKitX/ZenCalc](https://github.com/ZenKitX/ZenCalc)
-2. 💪 Opened PR [#3](undefined) in [ZenKitX/ZenCalc](https://github.com/ZenKitX/ZenCalc)
-3. 💪 Opened PR [#3](undefined) in [h1s97x/sdutex](https://github.com/h1s97x/sdutex)
-4. 💪 Opened PR [#22](undefined) in [h1s97x/sduthesis](https://github.com/h1s97x/sduthesis)
-5. 💪 Opened PR [#2](undefined) in [h1s97x/sdutex](https://github.com/h1s97x/sdutex)
+1. ⭐ Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
+2. ❗️ Opened issue [#100](https://github.com/lbx154/Argus/issues/100) in [lbx154/Argus](https://github.com/lbx154/Argus)
+3. 💪 Opened PR [#4](undefined) in [ZenKitX/ZenCalc](https://github.com/ZenKitX/ZenCalc)
+4. 💪 Opened PR [#3](undefined) in [ZenKitX/ZenCalc](https://github.com/ZenKitX/ZenCalc)
+5. 💪 Opened PR [#3](undefined) in [h1s97x/sdutex](https://github.com/h1s97x/sdutex)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

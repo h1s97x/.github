@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
-2. ❗️ Opened issue [#100](https://github.com/lbx154/Argus/issues/100) in [lbx154/Argus](https://github.com/lbx154/Argus)
-3. 💪 Opened PR [#4](undefined) in [ZenKitX/ZenCalc](https://github.com/ZenKitX/ZenCalc)
-4. 💪 Opened PR [#3](undefined) in [ZenKitX/ZenCalc](https://github.com/ZenKitX/ZenCalc)
-5. 💪 Opened PR [#3](undefined) in [h1s97x/sdutex](https://github.com/h1s97x/sdutex)
+1. 💪 Opened PR [#92](undefined) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
+2. ❗️ Opened issue [#91](https://github.com/hibikilogy/hibikilogy.github.io/issues/91) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
+3. ❌ Closed PR [#2](undefined) in [h1s97x/hibikilogy.github.io](https://github.com/h1s97x/hibikilogy.github.io)
+4. 💪 Opened PR [#2](undefined) in [h1s97x/hibikilogy.github.io](https://github.com/h1s97x/hibikilogy.github.io)
+5. ❌ Closed PR [#1](undefined) in [h1s97x/hibikilogy.github.io](https://github.com/h1s97x/hibikilogy.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

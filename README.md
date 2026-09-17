@@ -37,7 +37,7 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/Financial-API](https://github.com/h1s97x/Financial-API) from [HiThink-Tech/Financial-API](https://github.com/HiThink-Tech/Financial-API)
+1. 🔱 Forked [h1s97x/elecredit-api](https://github.com/h1s97x/elecredit-api) from [undefined](https://github.com/undefined)
 2. ⭐ Starred [HiThink-Tech/Financial-API](https://github.com/HiThink-Tech/Financial-API)
 3. ⭐ Starred [ProbiusOfficial/SecToolKit](https://github.com/ProbiusOfficial/SecToolKit)
 4. 🔱 Forked [h1s97x/PicLite](https://github.com/h1s97x/PicLite) from [amiaoapp/PicLite](https://github.com/amiaoapp/PicLite)

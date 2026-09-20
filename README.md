@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/elecredit-api](https://github.com/h1s97x/elecredit-api) from [undefined](https://github.com/undefined)
-2. ⭐ Starred [HiThink-Tech/Financial-API](https://github.com/HiThink-Tech/Financial-API)
-3. ⭐ Starred [ProbiusOfficial/SecToolKit](https://github.com/ProbiusOfficial/SecToolKit)
-4. 🔱 Forked [h1s97x/PicLite](https://github.com/h1s97x/PicLite) from [amiaoapp/PicLite](https://github.com/amiaoapp/PicLite)
-5. 💪 Opened PR [#98](undefined) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
+1. ⭐ Starred [trycua/cua](https://github.com/trycua/cua)
+2. 🔱 Forked [h1s97x/elecredit-api](https://github.com/h1s97x/elecredit-api) from [undefined](https://github.com/undefined)
+3. ⭐ Starred [HiThink-Tech/Financial-API](https://github.com/HiThink-Tech/Financial-API)
+4. ⭐ Starred [ProbiusOfficial/SecToolKit](https://github.com/ProbiusOfficial/SecToolKit)
+5. 🔱 Forked [h1s97x/PicLite](https://github.com/h1s97x/PicLite) from [amiaoapp/PicLite](https://github.com/amiaoapp/PicLite)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

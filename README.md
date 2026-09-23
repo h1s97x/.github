@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/WeKnora](https://github.com/h1s97x/WeKnora) from [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
-2. ⭐ Starred [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
-3. ⭐ Starred [trycua/cua](https://github.com/trycua/cua)
-4. 🔱 Forked [h1s97x/elecredit-api](https://github.com/h1s97x/elecredit-api) from [undefined](https://github.com/undefined)
-5. ⭐ Starred [HiThink-Tech/Financial-API](https://github.com/HiThink-Tech/Financial-API)
+1. 🔱 Forked [h1s97x/mailez](https://github.com/h1s97x/mailez) from [mailez-hq/mailez](https://github.com/mailez-hq/mailez)
+2. 🔱 Forked [h1s97x/OpenInferESG](https://github.com/h1s97x/OpenInferESG) from [ScottLogic/OpenInferESG](https://github.com/ScottLogic/OpenInferESG)
+3. 🔱 Forked [h1s97x/WeKnora](https://github.com/h1s97x/WeKnora) from [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+4. ⭐ Starred [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+5. ⭐ Starred [trycua/cua](https://github.com/trycua/cua)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

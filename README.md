@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stffnb/edentext](https://github.com/stffnb/edentext)
-2. ⭐ Starred [openai/codex](https://github.com/openai/codex)
-3. 🔱 Forked [h1s97x/mailez](https://github.com/h1s97x/mailez) from [mailez-hq/mailez](https://github.com/mailez-hq/mailez)
-4. 🔱 Forked [h1s97x/OpenInferESG](https://github.com/h1s97x/OpenInferESG) from [ScottLogic/OpenInferESG](https://github.com/ScottLogic/OpenInferESG)
-5. 🔱 Forked [h1s97x/WeKnora](https://github.com/h1s97x/WeKnora) from [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+1. ⭐ Starred [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB)
+2. ⭐ Starred [discourse/discourse](https://github.com/discourse/discourse)
+3. ⭐ Starred [stffnb/edentext](https://github.com/stffnb/edentext)
+4. ⭐ Starred [openai/codex](https://github.com/openai/codex)
+5. 🔱 Forked [h1s97x/mailez](https://github.com/h1s97x/mailez) from [mailez-hq/mailez](https://github.com/mailez-hq/mailez)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

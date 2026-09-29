@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB)
-2. ⭐ Starred [discourse/discourse](https://github.com/discourse/discourse)
-3. ⭐ Starred [stffnb/edentext](https://github.com/stffnb/edentext)
-4. ⭐ Starred [openai/codex](https://github.com/openai/codex)
-5. 🔱 Forked [h1s97x/mailez](https://github.com/h1s97x/mailez) from [mailez-hq/mailez](https://github.com/mailez-hq/mailez)
+1. ⭐ Starred [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+2. ⭐ Starred [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB)
+3. ⭐ Starred [discourse/discourse](https://github.com/discourse/discourse)
+4. ⭐ Starred [stffnb/edentext](https://github.com/stffnb/edentext)
+5. ⭐ Starred [openai/codex](https://github.com/openai/codex)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

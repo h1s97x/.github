@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
-2. ⭐ Starred [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB)
-3. ⭐ Starred [discourse/discourse](https://github.com/discourse/discourse)
-4. ⭐ Starred [stffnb/edentext](https://github.com/stffnb/edentext)
-5. ⭐ Starred [openai/codex](https://github.com/openai/codex)
+1. 🔱 Forked [h1s97x/LiquidDuck_ESP32](https://github.com/h1s97x/LiquidDuck_ESP32) from [nongxl/LiquidDuck_ESP32](https://github.com/nongxl/LiquidDuck_ESP32)
+2. ⭐ Starred [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+3. ⭐ Starred [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB)
+4. ⭐ Starred [discourse/discourse](https://github.com/discourse/discourse)
+5. ⭐ Starred [stffnb/edentext](https://github.com/stffnb/edentext)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

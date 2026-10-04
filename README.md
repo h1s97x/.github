@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/gh-profile-3d-contrib](https://github.com/h1s97x/gh-profile-3d-contrib) from [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
-2. ⭐ Starred [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
-3. ⭐ Starred [Platane/snk](https://github.com/Platane/snk)
-4. ⭐ Starred [files-community/Files](https://github.com/files-community/Files)
-5. 🔱 Forked [h1s97x/SteamAchievementManager](https://github.com/h1s97x/SteamAchievementManager) from [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)
+1. 🔱 Forked [h1s97x/qqtang](https://github.com/h1s97x/qqtang) from [kuuhaku1314/qqtang](https://github.com/kuuhaku1314/qqtang)
+2. ⭐ Starred [kuuhaku1314/qqtang](https://github.com/kuuhaku1314/qqtang)
+3. ⭐ Starred [veekun/pokedex](https://github.com/veekun/pokedex)
+4. ⭐ Starred [Brady29655751/Seer2-Restart-Lite](https://github.com/Brady29655751/Seer2-Restart-Lite)
+5. 🔱 Forked [h1s97x/gh-profile-3d-contrib](https://github.com/h1s97x/gh-profile-3d-contrib) from [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

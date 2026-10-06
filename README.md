@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/qqtang](https://github.com/h1s97x/qqtang) from [kuuhaku1314/qqtang](https://github.com/kuuhaku1314/qqtang)
-2. ⭐ Starred [kuuhaku1314/qqtang](https://github.com/kuuhaku1314/qqtang)
-3. ⭐ Starred [veekun/pokedex](https://github.com/veekun/pokedex)
-4. ⭐ Starred [Brady29655751/Seer2-Restart-Lite](https://github.com/Brady29655751/Seer2-Restart-Lite)
-5. 🔱 Forked [h1s97x/gh-profile-3d-contrib](https://github.com/h1s97x/gh-profile-3d-contrib) from [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
+1. ⭐ Starred [bwnotfound/pypvzol](https://github.com/bwnotfound/pypvzol)
+2. 🔱 Forked [h1s97x/qqtang](https://github.com/h1s97x/qqtang) from [kuuhaku1314/qqtang](https://github.com/kuuhaku1314/qqtang)
+3. ⭐ Starred [kuuhaku1314/qqtang](https://github.com/kuuhaku1314/qqtang)
+4. ⭐ Starred [veekun/pokedex](https://github.com/veekun/pokedex)
+5. ⭐ Starred [Brady29655751/Seer2-Restart-Lite](https://github.com/Brady29655751/Seer2-Restart-Lite)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

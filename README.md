@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. 🔱 Forked [h1s97x/Agent-Reach](https://github.com/h1s97x/Agent-Reach) from [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-3. ⭐ Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-4. 🔱 Forked [h1s97x/ARTEX](https://github.com/h1s97x/ARTEX) from [undefined](https://github.com/undefined)
-5. ⭐ Starred [guokaigdg/animal-island-ui](https://github.com/guokaigdg/animal-island-ui)
+1. 🔱 Forked [h1s97x/Octop](https://github.com/h1s97x/Octop) from [TencentCloud/Octop](https://github.com/TencentCloud/Octop)
+2. ⭐ Starred [TencentCloud/Octop](https://github.com/TencentCloud/Octop)
+3. 👍 Approved [#2](https://github.com/h1s97x/action-gh-social-graph/pull/2#pullrequestreview-5480022936) in [h1s97x/action-gh-social-graph](https://github.com/h1s97x/action-gh-social-graph)
+4. ✔️ Closed issue [#379](https://github.com/M-China/mcd-developer-innovation-challenge/issues/379) in [M-China/mcd-developer-innovation-challenge](https://github.com/M-China/mcd-developer-innovation-challenge)
+5. ⭐ Starred [h1s97x/mcd-annual-review](https://github.com/h1s97x/mcd-annual-review)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

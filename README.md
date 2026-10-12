@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/Octop](https://github.com/h1s97x/Octop) from [TencentCloud/Octop](https://github.com/TencentCloud/Octop)
-2. ⭐ Starred [TencentCloud/Octop](https://github.com/TencentCloud/Octop)
-3. 👍 Approved [#2](https://github.com/h1s97x/action-gh-social-graph/pull/2#pullrequestreview-5480022936) in [h1s97x/action-gh-social-graph](https://github.com/h1s97x/action-gh-social-graph)
-4. ✔️ Closed issue [#379](https://github.com/M-China/mcd-developer-innovation-challenge/issues/379) in [M-China/mcd-developer-innovation-challenge](https://github.com/M-China/mcd-developer-innovation-challenge)
-5. ⭐ Starred [h1s97x/mcd-annual-review](https://github.com/h1s97x/mcd-annual-review)
+1. ⭐ Starred [t8y2/dbx](https://github.com/t8y2/dbx)
+2. 🔱 Forked [h1s97x/sekiro-practice-tool](https://github.com/h1s97x/sekiro-practice-tool) from [veeenu/sekiro-practice-tool](https://github.com/veeenu/sekiro-practice-tool)
+3. 🔱 Forked [h1s97x/darksoulsiii-practice-tool](https://github.com/h1s97x/darksoulsiii-practice-tool) from [veeenu/darksoulsiii-practice-tool](https://github.com/veeenu/darksoulsiii-practice-tool)
+4. 🔱 Forked [h1s97x/eldenring-practice-tool](https://github.com/h1s97x/eldenring-practice-tool) from [veeenu/eldenring-practice-tool](https://github.com/veeenu/eldenring-practice-tool)
+5. ⭐ Starred [veeenu/eldenring-practice-tool](https://github.com/veeenu/eldenring-practice-tool)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

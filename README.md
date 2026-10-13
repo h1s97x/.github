@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [t8y2/dbx](https://github.com/t8y2/dbx)
-2. 🔱 Forked [h1s97x/sekiro-practice-tool](https://github.com/h1s97x/sekiro-practice-tool) from [veeenu/sekiro-practice-tool](https://github.com/veeenu/sekiro-practice-tool)
-3. 🔱 Forked [h1s97x/darksoulsiii-practice-tool](https://github.com/h1s97x/darksoulsiii-practice-tool) from [veeenu/darksoulsiii-practice-tool](https://github.com/veeenu/darksoulsiii-practice-tool)
-4. 🔱 Forked [h1s97x/eldenring-practice-tool](https://github.com/h1s97x/eldenring-practice-tool) from [veeenu/eldenring-practice-tool](https://github.com/veeenu/eldenring-practice-tool)
-5. ⭐ Starred [veeenu/eldenring-practice-tool](https://github.com/veeenu/eldenring-practice-tool)
+1. 🔱 Forked [h1s97x/insect-world](https://github.com/h1s97x/insect-world) from [xr843/insect-world](https://github.com/xr843/insect-world)
+2. ⭐ Starred [xr843/insect-world](https://github.com/xr843/insect-world)
+3. ⭐ Starred [Tencent/LoopForge](https://github.com/Tencent/LoopForge)
+4. ⭐ Starred [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
+5. ⭐ Starred [t8y2/dbx](https://github.com/t8y2/dbx)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

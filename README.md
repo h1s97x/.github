@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/insect-world](https://github.com/h1s97x/insect-world) from [xr843/insect-world](https://github.com/xr843/insect-world)
-2. ⭐ Starred [xr843/insect-world](https://github.com/xr843/insect-world)
-3. ⭐ Starred [Tencent/LoopForge](https://github.com/Tencent/LoopForge)
-4. ⭐ Starred [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
-5. ⭐ Starred [t8y2/dbx](https://github.com/t8y2/dbx)
+1. 🔱 Forked [h1s97x/BubbleFighter_KR1304_Server](https://github.com/h1s97x/BubbleFighter_KR1304_Server) from [K1roSama/BubbleFighter_KR1304_Server](https://github.com/K1roSama/BubbleFighter_KR1304_Server)
+2. 🔱 Forked [h1s97x/insect-world](https://github.com/h1s97x/insect-world) from [xr843/insect-world](https://github.com/xr843/insect-world)
+3. ⭐ Starred [xr843/insect-world](https://github.com/xr843/insect-world)
+4. ⭐ Starred [Tencent/LoopForge](https://github.com/Tencent/LoopForge)
+5. ⭐ Starred [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

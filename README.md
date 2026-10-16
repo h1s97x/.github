@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/seaweedfs](https://github.com/h1s97x/seaweedfs) from [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
-2. 🔱 Forked [h1s97x/BubbleFighter_KR1304_Server](https://github.com/h1s97x/BubbleFighter_KR1304_Server) from [K1roSama/BubbleFighter_KR1304_Server](https://github.com/K1roSama/BubbleFighter_KR1304_Server)
-3. 🔱 Forked [h1s97x/insect-world](https://github.com/h1s97x/insect-world) from [xr843/insect-world](https://github.com/xr843/insect-world)
-4. ⭐ Starred [xr843/insect-world](https://github.com/xr843/insect-world)
-5. ⭐ Starred [Tencent/LoopForge](https://github.com/Tencent/LoopForge)
+1. 🔱 Forked [h1s97x/wordcraft](https://github.com/h1s97x/wordcraft) from [storytold/wordcraft](https://github.com/storytold/wordcraft)
+2. ⭐ Starred [storytold/wordcraft](https://github.com/storytold/wordcraft)
+3. ⭐ Starred [storytold/photocraft](https://github.com/storytold/photocraft)
+4. 🔱 Forked [h1s97x/ddddocr](https://github.com/h1s97x/ddddocr) from [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)
+5. ⭐ Starred [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

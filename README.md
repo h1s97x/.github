@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/wordcraft](https://github.com/h1s97x/wordcraft) from [storytold/wordcraft](https://github.com/storytold/wordcraft)
-2. ⭐ Starred [storytold/wordcraft](https://github.com/storytold/wordcraft)
-3. ⭐ Starred [storytold/photocraft](https://github.com/storytold/photocraft)
-4. 🔱 Forked [h1s97x/ddddocr](https://github.com/h1s97x/ddddocr) from [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)
-5. ⭐ Starred [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)
+1. ⭐ Starred [Tencent/weui](https://github.com/Tencent/weui)
+2. ⭐ Starred [badges/shields](https://github.com/badges/shields)
+3. ⭐ Starred [badges/awesome-badges](https://github.com/badges/awesome-badges)
+4. 🔱 Forked [h1s97x/shields](https://github.com/h1s97x/shields) from [badges/shields](https://github.com/badges/shields)
+5. 🔱 Forked [h1s97x/scalar](https://github.com/h1s97x/scalar) from [scalar/scalar](https://github.com/scalar/scalar)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

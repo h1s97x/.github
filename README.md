@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Tencent/weui](https://github.com/Tencent/weui)
-2. ⭐ Starred [badges/shields](https://github.com/badges/shields)
-3. ⭐ Starred [badges/awesome-badges](https://github.com/badges/awesome-badges)
-4. 🔱 Forked [h1s97x/shields](https://github.com/h1s97x/shields) from [badges/shields](https://github.com/badges/shields)
-5. 🔱 Forked [h1s97x/scalar](https://github.com/h1s97x/scalar) from [scalar/scalar](https://github.com/scalar/scalar)
+1. 🔱 Forked [h1s97x/dusklight](https://github.com/h1s97x/dusklight) from [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight)
+2. ⭐ Starred [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight)
+3. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
+4. 🔱 Forked [h1s97x/Edgechat](https://github.com/h1s97x/Edgechat) from [aozorae/Edgechat](https://github.com/aozorae/Edgechat)
+5. ⭐ Starred [aozorae/Edgechat](https://github.com/aozorae/Edgechat)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

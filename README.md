@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/dusklight](https://github.com/h1s97x/dusklight) from [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight)
-2. ⭐ Starred [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight)
-3. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
-4. 🔱 Forked [h1s97x/Edgechat](https://github.com/h1s97x/Edgechat) from [aozorae/Edgechat](https://github.com/aozorae/Edgechat)
-5. ⭐ Starred [aozorae/Edgechat](https://github.com/aozorae/Edgechat)
+1. ⭐ Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
+2. 🔱 Forked [h1s97x/DeepInfer](https://github.com/h1s97x/DeepInfer) from [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
+3. 🔱 Forked [h1s97x/dusklight](https://github.com/h1s97x/dusklight) from [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight)
+4. ⭐ Starred [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight)
+5. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

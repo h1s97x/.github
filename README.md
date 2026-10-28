@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/gdsdecomp](https://github.com/h1s97x/gdsdecomp) from [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
-2. ⭐ Starred [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
-3. 🔱 Forked [h1s97x/unrpyc](https://github.com/h1s97x/unrpyc) from [CensoredUsername/unrpyc](https://github.com/CensoredUsername/unrpyc)
-4. ⭐ Starred [CensoredUsername/unrpyc](https://github.com/CensoredUsername/unrpyc)
-5. ⭐ Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
+1. ⭐ Starred [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
+2. 🔱 Forked [h1s97x/gdsdecomp](https://github.com/h1s97x/gdsdecomp) from [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
+3. ⭐ Starred [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
+4. 🔱 Forked [h1s97x/unrpyc](https://github.com/h1s97x/unrpyc) from [CensoredUsername/unrpyc](https://github.com/CensoredUsername/unrpyc)
+5. ⭐ Starred [CensoredUsername/unrpyc](https://github.com/CensoredUsername/unrpyc)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

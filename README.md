@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
-2. 🔱 Forked [h1s97x/gdsdecomp](https://github.com/h1s97x/gdsdecomp) from [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
-3. ⭐ Starred [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
-4. 🔱 Forked [h1s97x/unrpyc](https://github.com/h1s97x/unrpyc) from [CensoredUsername/unrpyc](https://github.com/CensoredUsername/unrpyc)
-5. ⭐ Starred [CensoredUsername/unrpyc](https://github.com/CensoredUsername/unrpyc)
+1. 🔱 Forked [h1s97x/NES-Games-Disassembly](https://github.com/h1s97x/NES-Games-Disassembly) from [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly)
+2. ⭐ Starred [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly)
+3. ⭐ Starred [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
+4. 🔱 Forked [h1s97x/gdsdecomp](https://github.com/h1s97x/gdsdecomp) from [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
+5. ⭐ Starred [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

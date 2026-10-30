@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/NES-Games-Disassembly](https://github.com/h1s97x/NES-Games-Disassembly) from [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly)
-2. ⭐ Starred [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly)
-3. ⭐ Starred [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
-4. 🔱 Forked [h1s97x/gdsdecomp](https://github.com/h1s97x/gdsdecomp) from [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
-5. ⭐ Starred [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
+1. 🔱 Forked [h1s97x/casdoor](https://github.com/h1s97x/casdoor) from [casdoor/casdoor](https://github.com/casdoor/casdoor)
+2. ⭐ Starred [casdoor/casdoor](https://github.com/casdoor/casdoor)
+3. ⭐ Starred [traefik/traefik](https://github.com/traefik/traefik)
+4. ⭐ Starred [authelia/authelia](https://github.com/authelia/authelia)
+5. 🔱 Forked [h1s97x/NES-Games-Disassembly](https://github.com/h1s97x/NES-Games-Disassembly) from [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

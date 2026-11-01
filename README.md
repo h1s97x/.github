@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/casdoor](https://github.com/h1s97x/casdoor) from [casdoor/casdoor](https://github.com/casdoor/casdoor)
-2. ⭐ Starred [casdoor/casdoor](https://github.com/casdoor/casdoor)
-3. ⭐ Starred [traefik/traefik](https://github.com/traefik/traefik)
-4. ⭐ Starred [authelia/authelia](https://github.com/authelia/authelia)
-5. 🔱 Forked [h1s97x/NES-Games-Disassembly](https://github.com/h1s97x/NES-Games-Disassembly) from [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly)
+1. ⭐ Starred [bobeff/open-source-games](https://github.com/bobeff/open-source-games)
+2. 🔱 Forked [h1s97x/sapper-v2](https://github.com/h1s97x/sapper-v2) from [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2)
+3. ⭐ Starred [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2)
+4. 🔱 Forked [h1s97x/dsh-superagent-prototype](https://github.com/h1s97x/dsh-superagent-prototype) from [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
+5. ⭐ Starred [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

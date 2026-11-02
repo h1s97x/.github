@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bobeff/open-source-games](https://github.com/bobeff/open-source-games)
-2. 🔱 Forked [h1s97x/sapper-v2](https://github.com/h1s97x/sapper-v2) from [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2)
-3. ⭐ Starred [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2)
-4. 🔱 Forked [h1s97x/dsh-superagent-prototype](https://github.com/h1s97x/dsh-superagent-prototype) from [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
-5. ⭐ Starred [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
+1. ⭐ Starred [logto-io/logto](https://github.com/logto-io/logto)
+2. ⭐ Starred [bobeff/open-source-games](https://github.com/bobeff/open-source-games)
+3. 🔱 Forked [h1s97x/sapper-v2](https://github.com/h1s97x/sapper-v2) from [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2)
+4. ⭐ Starred [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2)
+5. 🔱 Forked [h1s97x/dsh-superagent-prototype](https://github.com/h1s97x/dsh-superagent-prototype) from [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

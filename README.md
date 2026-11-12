@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](undefined) in [h1s97x/CrawlerNote](https://github.com/h1s97x/CrawlerNote)
-2. ⭐ Starred [logto-io/logto](https://github.com/logto-io/logto)
-3. ⭐ Starred [bobeff/open-source-games](https://github.com/bobeff/open-source-games)
-4. 🔱 Forked [h1s97x/sapper-v2](https://github.com/h1s97x/sapper-v2) from [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2)
-5. ⭐ Starred [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2)
+1. 🔱 Forked [h1s97x/star-history](https://github.com/h1s97x/star-history) from [star-history/star-history](https://github.com/star-history/star-history)
+2. ⭐ Starred [star-history/star-history](https://github.com/star-history/star-history)
+3. ✌️ Released [v0.0.1](https://github.com/h1s97x/git-sync-composite/releases/tag/v0.0.1) in [h1s97x/git-sync-composite](https://github.com/h1s97x/git-sync-composite)
+4. ✌️ Released [v0.0.1](https://github.com/h1s97x/git-sync/releases/tag/v0.0.1) in [h1s97x/git-sync](https://github.com/h1s97x/git-sync)
+5. 🤝 Became collaborator on [imyaung/imyaung](https://github.com/imyaung/imyaung)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

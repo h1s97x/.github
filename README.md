@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-2. 🔱 Forked [h1s97x/star-history](https://github.com/h1s97x/star-history) from [star-history/star-history](https://github.com/star-history/star-history)
-3. ⭐ Starred [star-history/star-history](https://github.com/star-history/star-history)
-4. ✌️ Released [v0.0.1](https://github.com/h1s97x/git-sync-composite/releases/tag/v0.0.1) in [h1s97x/git-sync-composite](https://github.com/h1s97x/git-sync-composite)
-5. ✌️ Released [v0.0.1](https://github.com/h1s97x/git-sync/releases/tag/v0.0.1) in [h1s97x/git-sync](https://github.com/h1s97x/git-sync)
+1. ⭐ Starred [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)
+2. 🔱 Forked [h1s97x/PVZ-Godot-Dream](https://github.com/h1s97x/PVZ-Godot-Dream) from [hsk-dream/PVZ-Godot-Dream](https://github.com/hsk-dream/PVZ-Godot-Dream)
+3. 🔱 Forked [h1s97x/QQSanGuo](https://github.com/h1s97x/QQSanGuo) from [Time1996/QQSanGuo](https://github.com/Time1996/QQSanGuo)
+4. ⭐ Starred [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+5. 🔱 Forked [h1s97x/star-history](https://github.com/h1s97x/star-history) from [star-history/star-history](https://github.com/star-history/star-history)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

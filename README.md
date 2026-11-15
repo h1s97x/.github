@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)
-2. 🔱 Forked [h1s97x/PVZ-Godot-Dream](https://github.com/h1s97x/PVZ-Godot-Dream) from [hsk-dream/PVZ-Godot-Dream](https://github.com/hsk-dream/PVZ-Godot-Dream)
-3. 🔱 Forked [h1s97x/QQSanGuo](https://github.com/h1s97x/QQSanGuo) from [Time1996/QQSanGuo](https://github.com/Time1996/QQSanGuo)
-4. ⭐ Starred [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-5. 🔱 Forked [h1s97x/star-history](https://github.com/h1s97x/star-history) from [star-history/star-history](https://github.com/star-history/star-history)
+1. 🔱 Forked [h1s97x/oss-investment-scorecard](https://github.com/h1s97x/oss-investment-scorecard) from [lucy-cxy/oss-investment-scorecard](https://github.com/lucy-cxy/oss-investment-scorecard)
+2. ⭐ Starred [lucy-cxy/oss-investment-scorecard](https://github.com/lucy-cxy/oss-investment-scorecard)
+3. ⭐ Starred [ShinoharaHaruna/SDU-Beamer-Theme](https://github.com/ShinoharaHaruna/SDU-Beamer-Theme)
+4. 🔱 Forked [h1s97x/linger](https://github.com/h1s97x/linger) from [simplexai-labs/linger](https://github.com/simplexai-labs/linger)
+5. ⭐ Starred [simplexai-labs/linger](https://github.com/simplexai-labs/linger)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

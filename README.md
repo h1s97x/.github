@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [h1s97x/oss-investment-scorecard](https://github.com/h1s97x/oss-investment-scorecard) from [lucy-cxy/oss-investment-scorecard](https://github.com/lucy-cxy/oss-investment-scorecard)
-2. ⭐ Starred [lucy-cxy/oss-investment-scorecard](https://github.com/lucy-cxy/oss-investment-scorecard)
-3. ⭐ Starred [ShinoharaHaruna/SDU-Beamer-Theme](https://github.com/ShinoharaHaruna/SDU-Beamer-Theme)
-4. 🔱 Forked [h1s97x/linger](https://github.com/h1s97x/linger) from [simplexai-labs/linger](https://github.com/simplexai-labs/linger)
-5. ⭐ Starred [simplexai-labs/linger](https://github.com/simplexai-labs/linger)
+1. ⭐ Starred [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
+2. 🔱 Forked [h1s97x/oss-investment-scorecard](https://github.com/h1s97x/oss-investment-scorecard) from [lucy-cxy/oss-investment-scorecard](https://github.com/lucy-cxy/oss-investment-scorecard)
+3. ⭐ Starred [lucy-cxy/oss-investment-scorecard](https://github.com/lucy-cxy/oss-investment-scorecard)
+4. ⭐ Starred [ShinoharaHaruna/SDU-Beamer-Theme](https://github.com/ShinoharaHaruna/SDU-Beamer-Theme)
+5. 🔱 Forked [h1s97x/linger](https://github.com/h1s97x/linger) from [simplexai-labs/linger](https://github.com/simplexai-labs/linger)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式

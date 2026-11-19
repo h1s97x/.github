@@ -37,11 +37,11 @@
 ## 🔥 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
-2. 🔱 Forked [h1s97x/oss-investment-scorecard](https://github.com/h1s97x/oss-investment-scorecard) from [lucy-cxy/oss-investment-scorecard](https://github.com/lucy-cxy/oss-investment-scorecard)
-3. ⭐ Starred [lucy-cxy/oss-investment-scorecard](https://github.com/lucy-cxy/oss-investment-scorecard)
-4. ⭐ Starred [ShinoharaHaruna/SDU-Beamer-Theme](https://github.com/ShinoharaHaruna/SDU-Beamer-Theme)
-5. 🔱 Forked [h1s97x/linger](https://github.com/h1s97x/linger) from [simplexai-labs/linger](https://github.com/simplexai-labs/linger)
+1. 💪 Opened PR [#100](undefined) in [hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)
+2. ⭐ Starred [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
+3. 🔱 Forked [h1s97x/oss-investment-scorecard](https://github.com/h1s97x/oss-investment-scorecard) from [lucy-cxy/oss-investment-scorecard](https://github.com/lucy-cxy/oss-investment-scorecard)
+4. ⭐ Starred [lucy-cxy/oss-investment-scorecard](https://github.com/lucy-cxy/oss-investment-scorecard)
+5. ⭐ Starred [ShinoharaHaruna/SDU-Beamer-Theme](https://github.com/ShinoharaHaruna/SDU-Beamer-Theme)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
